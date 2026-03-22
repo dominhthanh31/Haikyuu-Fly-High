@@ -40,4 +40,4 @@ Tổng hợp kỹ năng nhân vật và hướng dẫn chơi game **Haikyu!! FLY
 
 ## Minigame
 
-- [01. Trốn Tìm](Minigame/01.%20Tron_Tim.md)
+- [Trốn Tìm](Minigame/Tron_Tim.md)
