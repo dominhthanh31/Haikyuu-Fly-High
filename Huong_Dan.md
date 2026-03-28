@@ -35,7 +35,7 @@
 
 2. Độ hiếm Tiềm năng càng cao, chỉ số cơ bản của hiệu ứng chính càng cao.
 
-3. Ô I, III, V có hiệu ứng chính **cố định**. Ô III luôn là [Giao bóng], Ô V luôn là [Đỡ bóng]. Ô I tùy theo bộ:
+3. Ô I, III, V có hiệu ứng chính **cố định** (giá trị cố định: 300). Ô III luôn là [Giao bóng], Ô V luôn là [Đỡ bóng]. Ô I tùy theo bộ:
    - **Ô I = [Tốc công]:** 〈Ý thức cường hóa〉〈Thần tốc tốc công〉〈Giác quan nhạy bén〉
    - **Ô I = [Đập mạnh]:** 〈Sĩ khí tấn công〉〈Trạng thái cường hóa〉〈Áp lực đập mạnh〉〈Phấn khích đập mạnh〉
    - **Ô I = [Chuyền bóng]:** 〈Tấn công hai〉〈Giao bóng chính xác〉〈Chuyền bóng chính xác〉
@@ -43,9 +43,9 @@
    - **Ô I = [Đỡ bóng]:** 〈Hỗ trợ đỡ bóng〉〈Đỡ bóng phong độ〉
 
 4. Ô II, IV, VI có hiệu ứng chính được tạo **ngẫu nhiên** từ các chỉ số sau:
-   - **Ô II**: [Đập mạnh], [Tốc công], [Chuyền bóng], [Giao bóng], [Ý thức], [Sức mạnh]
-   - **Ô IV**: [Đỡ bóng], [Chắn bóng], [Cứu bóng], [Phản xạ], [Tinh thần]
-   - **Ô VI**: [Đập mạnh], [Tốc công], [Chuyền bóng], [Giao bóng], [Đỡ bóng], [Chắn bóng], [Cứu bóng], [Kỹ thuật tấn công], [Kỹ thuật phòng thủ]
+   - **Ô II** (tấn công): [Đập mạnh] +35%, [Tốc công] +35%, [Chuyền bóng] +35%, [Giao bóng] +35%, [Ý thức] +20%, [Sức mạnh] +40%
+   - **Ô IV** (phòng thủ): [Đỡ bóng] +35%, [Chắn bóng] +35%, [Cứu bóng] +35%, [Phản xạ] +20%, [Tinh thần] +40%
+   - **Ô VI** (hỗn hợp): [Đập mạnh] +35%, [Tốc công] +35%, [Chuyền bóng] +35%, [Giao bóng] +35%, [Đỡ bóng] +35%, [Chắn bóng] +35%, [Cứu bóng] +35%, [Kỹ thuật tấn công] +15%, [Kỹ thuật phòng thủ] +15%
 
 ### 3. Hiệu ứng phụ
 
