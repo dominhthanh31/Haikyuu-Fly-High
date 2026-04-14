@@ -33,6 +33,10 @@ Tổng hợp kỹ năng nhân vật và hướng dẫn chơi game **Haikyu!! FLY
 - [23. Tanaka Ryuunosuke — Hanami](Sp/23.%20Tanaka_Ryuunosuke_Hanami.md)
 - [24. Yamamoto Taketora — Hanami](Sp/24.%20Yamamoto_Taketora_Hanami.md)
 - [25. Hinata Shoyo — Jazz](Sp/25.%20Hinata_Shoyo_Jazz.md)
+- [26. Kageyama Tobio — Jazz](Sp/26.%20Kageyama_Tobio_Jazz.md)
+- [27. Nishinoya Yuu — Jazz](Sp/27.%20Nishinoya_Yuu_Jazz.md)
+- [28. Aone Takanobu — Houkago](Sp/28.%20Aone_Takanobu_Houkago.md)
+- [29. Futakuchi Kenji — Houkago](Sp/29.%20Futakuchi_Kenji_Houkago.md)
 
 ## UR Cards
 

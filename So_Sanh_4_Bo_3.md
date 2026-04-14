@@ -6,7 +6,7 @@
 | Bộ 3 | Setter | Tay đập | Thành viên 3 | Điểm |
 |---|---|---|---|---|
 | Bunkasai | Oikawa Tooru | Ushijima Wakatoshi | Iwaizumi Hajime | **9.5/10** |
-| Jazz | Kageyama Tobio ⚠️ | Hinata Shoyo | Nishinoya Yuu ⚠️ | **9/10** |
+| Jazz | Kageyama Tobio | Hinata Shoyo | Nishinoya Yuu ⚠️ | **9/10** |
 | Fuyuyasumi | Miya Atsumu | Miya Osamu | Tendo Satori | **8/10** |
 | Kaisuiyoku | Akaashi Keiji | Bokuto Kotaro | Aone Takanobu | **7.5/10** |
 
@@ -19,10 +19,10 @@
 - **Điểm yếu:** Phòng thủ đội phụ thuộc chủ yếu vào Iwaizumi. Ushijima không buff đồng đội.
 
 ### Jazz — 9/10
-- **Tấn công:** Hinata trần sát thương cao nhất (× 320% + 60% + 600% Uy lực). Kageyama [Cơ Trí] Nice Play system + CH IV [Sức mạnh] + 100% cho tốc công không chắn.
+- **Tấn công:** Hinata trần sát thương cao nhất (× 320% + 60% + 600% Uy lực). Kageyama [Chi Phối] Nice Play system + CH IV [Sức mạnh] + 100% cho tốc công không chắn.
 - **Phòng thủ:** Nishinoya đỡ bóng + cứu bóng (× 400% PERFECT) + chuyền bóng hybrid.
 - **Kizuna:** [Tốc công]/[Chuyền bóng] đồng đội + 5%/member Jazz. Tốc công synergy toàn diện.
-- **Điểm yếu:** Hinata phụ thuộc đội (CH IV triệt [Ý thức]). LEAK → thiếu tiềm năng.
+- **Điểm yếu:** Hinata phụ thuộc đội (CH IV triệt [Ý thức]). Nishinoya vẫn LEAK → thiếu tiềm năng.
 
 ### Fuyuyasumi — 8/10
 - **Tấn công:** Osamu hybrid tốc công/chuyền bóng, CH IV chuyền thành tuyệt chiêu từ đầu trận. Atsumu giao bóng kép (vô hiệu tuyệt chiêu đối thủ).
@@ -77,15 +77,15 @@
 
 ## III. SO SÁNH 4 CHUYỀN HAI
 
-| Tiêu chí | Kageyama Jazz ⚠️ | Oikawa Bunkasai | Akaashi Kaisuiyoku | Atsumu Fuyuyasumi |
+| Tiêu chí | Kageyama Jazz | Oikawa Bunkasai | Akaashi Kaisuiyoku | Atsumu Fuyuyasumi |
 |---|---|---|---|---|
-| **Chất lượng chuyền** | 8 | 10 | 6 | 8 |
-| **Buff tấn công đồng đội** | 8 | 10 | 9 | 9 |
+| **Chất lượng chuyền** | 9 | 10 | 6 | 8 |
+| **Buff tấn công đồng đội** | 9 | 10 | 9 | 9 |
 | **Giao bóng** | 8 | 10 | 2 | 9 |
 | **Buff phòng thủ đội** | 3 | 6 | 9 | 8 |
-| **Tự ghi điểm** | 5 | 8 | 8 | 5 |
-| **Nice Play hỗ trợ** | 8 | 10 | 8 | 9 |
-| **Linh hoạt đội hình** | 6 | 8 | 6 | 6 |
+| **Tự ghi điểm** | 4 | 8 | 8 | 5 |
+| **Nice Play hỗ trợ** | 9 | 10 | 8 | 9 |
+| **Linh hoạt đội hình** | 5 | 8 | 6 | 6 |
 
 ### Oikawa Bunkasai — 10/10
 - CH II: 100% Nice Play MỌI chạm bóng → cơ chế mạnh nhất game. [Sức mạnh] + 20%.
@@ -105,11 +105,12 @@
 - CH IV: [Kỹ thuật tấn công] + 35%, [Kỹ thuật phòng thủ] + 25% cho đồng đội > 40%. Guaranteed Nice Play khi [Kỹ thuật tấn công] ≥ 60%.
 - Hạn chế: [Cơ Trí] yêu cầu [Ý thức] ≤ 30% → giới hạn đội hình.
 
-### Kageyama Jazz — 7/10
-> ⚠️ Thông tin từ leak
-- Tốc công specialist: [Cơ Trí] Nice Play system. CH IV: tốc công không chắn + [Sức mạnh] + 100%.
-- Giao bóng × 160%.
-- Cực mạnh với Hinata Jazz nhưng hẹp phạm vi ứng dụng. LEAK → thiếu tiềm năng.
+### Kageyama Jazz — 8/10
+- [Chi Phối] system: đồng đội chuyền bóng → tích stack → tiêu hao = Nice Play bảo đảm + [Chuyền bóng] + 5% + [Tốc công] + 5% toàn đội (max 20%). CH II: 3 stack đầu trận.
+- Chuyền bóng × 250% (Kỹ năng 4) + passive buff chuyền bóng đồng đội = [Chuyền bóng] × 40% (Kỹ năng 1).
+- CH IV: đồng đội tốc công → [Sức mạnh] + 40%. Không bị chắn → + 60% (tổng + 100%). Cực synergy với Hinata Jazz (Kỹ năng 4 không bị chắn) và Kizuna Biến Nhân.
+- Giao bóng × 160% Nice Play bảo đảm + sức đập tốc công đồng đội + [Tốc công] × 60%.
+- Buff tấn công đồng đội cực mạnh cho đội tốc công. Không buff phòng thủ, không tự ghi điểm (trừ giao bóng).
 
 ---
 
