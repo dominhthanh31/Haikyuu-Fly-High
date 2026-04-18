@@ -6,11 +6,10 @@
 | Bộ 3 | Setter | Tay đập | Thành viên 3 | Điểm |
 |---|---|---|---|---|
 | Bunkasai | Oikawa Tooru | Ushijima Wakatoshi | Iwaizumi Hajime | **9.5/10** |
-| Jazz | Kageyama Tobio | Hinata Shoyo | Nishinoya Yuu ⚠️ | **9/10** |
+| Jazz | Kageyama Tobio | Hinata Shoyo | Nishinoya Yuu | **9/10** |
 | Fuyuyasumi | Miya Atsumu | Miya Osamu | Tendo Satori | **8/10** |
 | Kaisuiyoku | Akaashi Keiji | Bokuto Kotaro | Aone Takanobu | **7.5/10** |
 
-> ⚠️ = Thông tin từ leak
 
 ### Bunkasai — 9.5/10
 - **Tấn công:** Oikawa 100% Nice Play mọi chạm bóng → Ushijima tự scale [Ý thức] vô hạn → sát thương liên tục. Iwaizumi hybrid đập × 360% (Kizuna) + đỡ bóng × 360%.
@@ -20,9 +19,9 @@
 
 ### Jazz — 9/10
 - **Tấn công:** Hinata trần sát thương cao nhất (× 320% + 60% + 600% Uy lực). Kageyama [Chi Phối] Nice Play system + CH IV [Sức mạnh] + 100% cho tốc công không chắn.
-- **Phòng thủ:** Nishinoya đỡ bóng + cứu bóng (× 400% PERFECT) + chuyền bóng hybrid.
-- **Kizuna:** [Tốc công]/[Chuyền bóng] đồng đội + 5%/member Jazz. Tốc công synergy toàn diện.
-- **Điểm yếu:** Hinata phụ thuộc đội (CH IV triệt [Ý thức]). Nishinoya vẫn LEAK → thiếu tiềm năng.
+- **Phòng thủ:** Nishinoya đỡ bóng ([Vững Chắc] stacking × 150%) + cứu bóng (CH II × 400% PERFECT) + chuyền bóng hybrid (× 150% → tuyệt chiêu nếu ≥ 3 đồng đội chuyền).
+- **Kizuna:** [Tốc công]/[Chuyền bóng] đồng đội + 5%/member Jazz (Lv.5). CH IV Nishi: toss → spiker [Sức mạnh] += [Kỹ thuật tấn công] × 30% (max + 100%) + [Kỹ thuật tấn công] × 30% (max + 40%).
+- **Điểm yếu:** Hinata phụ thuộc đội (CH IV triệt [Ý thức]). Nishinoya không tự ghi điểm (Libero).
 
 ### Fuyuyasumi — 8/10
 - **Tấn công:** Osamu hybrid tốc công/chuyền bóng, CH IV chuyền thành tuyệt chiêu từ đầu trận. Atsumu giao bóng kép (vô hiệu tuyệt chiêu đối thủ).
@@ -116,7 +115,7 @@
 
 ## IV. SO SÁNH THÀNH VIÊN THỨ 3
 
-| Tiêu chí | Nishinoya Jazz ⚠️ | Iwaizumi Bunkasai | Aone Kaisuiyoku | Tendo Fuyuyasumi |
+| Tiêu chí | Nishinoya Jazz | Iwaizumi Bunkasai | Aone Kaisuiyoku | Tendo Fuyuyasumi |
 |---|---|---|---|---|
 | **Vai trò** | Libero | WS (hybrid) | MB chắn | MB chắn + tốc công |
 | **Phòng thủ cá nhân** | 9 | 10 | 8 | 6 |
@@ -133,12 +132,13 @@
 - Kizuna: Oikawa chuyền → Iwaizumi đập × 360% + [Phát Huy]. [Sức mạnh]/[Tinh thần] đội + 24%.
 - Hybrid đỡ + đập → không mất slot tấn công, hỗ trợ đội lẫn tự ghi điểm.
 
-### Nishinoya Jazz — Libero lý tưởng (LEAK)
-- [Vững Chắc] stacking (+ 500 [Đỡ bóng] + × 30%/stack). Kỹ năng 3: + [Đỡ bóng] × 150%, không BAD → đỡ mọi cú đập.
-- CH II: kỹ năng mới 〈Cứu Bóng Thần Tốc〉 = [Cứu bóng] × 400% PERFECT + tinh thần + 40.
-- CH IV: khi chuyền bóng → [Sức mạnh] spiker × 30% (max + 100%) + [Kỹ thuật tấn công] × 30% (max + 40%).
-- Chuyền bóng hybrid: [Chuyền bóng] × 150% + 30%/đồng đội chuyền → 3 đồng đội = tuyệt chiêu.
-- Không tự ghi điểm (libero), nhưng phòng thủ → chuyền → buff spiker cực mạnh.
+### Nishinoya Jazz — Libero lý tưởng
+- [Vững Chắc] stacking (+ 500 [Đỡ bóng] + [Đỡ bóng] × 30%/stack, tích khi đỡ bóng). Kỹ năng 3: tiêu hao ≥ 3 stack → + [Đỡ bóng] × 150%, không BAD, team [Sức mạnh] + 15%, tinh thần + 20. Đồng đội toss ngay sau → reset CD Kỹ năng 4.
+- CH II 〈Cứu Bóng Thần Tốc〉: [Cứu bóng] × 400% PERFECT + tinh thần đội + 40. Hồi chiêu: 8 lần qua lưới.
+- CH IV: Nishinoya hoặc thành viên có kỹ năng tốc công chuyền bóng → người đập mạnh/tốc công [Sức mạnh] += [Kỹ thuật tấn công] × 30% (max + 100%) + [Kỹ thuật tấn công] × 30% (max + 40%).
+- Kỹ năng 2 chuyền bóng hybrid: [Chuyền bóng] × 150% + 30%/đồng đội có kỹ năng chuyền trên sân → ≥ 3 đồng đội = tuyệt chiêu.
+- Kỹ năng 4 tuyệt chiêu: đỡ [Đỡ bóng] × 260%, mỗi stack [Tập Trung] trên đối thủ + 3% [Kỹ thuật phòng thủ] → > 40% = chắc chắn Nice Play.
+- Không tự ghi điểm (Libero), nhưng phòng thủ → chuyền → buff spiker là chuỗi hoàn chỉnh nhất trong 4 thành viên thứ 3.
 
 ### Aone Kaisuiyoku — Debuff đối thủ mạnh nhất
 - [Khóa Mục Tiêu] tracking đối thủ → [Chắn Bóng Kiên Cường] stacking: [Phản xạ] + 10%/stack (max + 200%).
@@ -154,5 +154,46 @@
 - [Hiệp Lực]: đồng đội tuyệt chiêu 2 lần → [Kỹ thuật tấn công/phòng thủ] + 15%. CH IV: chỉ số chính đội + 1%/ult (max + 20%).
 - Kizuna: mỗi [Nghỉ đông] + 2/2% [Kỹ thuật]. Tendo Nice Play đầu mỗi rally guaranteed.
 - Ceiling rất cao khi chuỗi Nice Play, floor rất thấp khi miss → phụ thuộc may mắn và [Ý thức] nền.
+
+---
+
+## V. CHUỖI KỸ NĂNG JAZZ (Phân tích chi tiết)
+
+### Buff Kizuna Jazz Lv.5 mỗi đầu rally (3 Jazz trên sân)
+
+| | [Tốc công] | [Chuyền bóng] |
+|---|---|---|
+| Hinata (Jazz) | + 15% | + 20% |
+| Kageyama (Jazz) | + 15% | + 15% |
+| Nishinoya (Jazz) | + 15% | + 20% |
+| Đồng đội khác | + 15% | + 15% |
+
+*(Hinata và Nishinoya nhận thêm + 5% [Chuyền bóng] từ điều kiện phụ Kizuna)*
+
+---
+
+### Lượt tấn công thường (Kageyama → Hinata)
+
+1. Kageyama Kỹ năng 3 tiêu hao [Chi Phối] khi chuyền → spike **chắc chắn Nice Play**, toàn đội [Chuyền bóng] + [Tốc công] tăng tối đa + 20%
+2. Nishi CH IV kích hoạt → Hinata [Sức mạnh] += [Kỹ thuật tấn công] × 30% (tối đa + 100%), [Kỹ thuật tấn công] += × 30% (tối đa + 40%)
+3. Hinata CH II: mỗi lần đồng đội toss → [Kỹ thuật tấn công] + 5% → dễ vượt ngưỡng 40% → Kỹ năng 4 cộng thêm [Tốc công] × 60%
+4. Hinata tốc công không bị chắn → Kageyama CH IV: [Sức mạnh] + 60% (tổng + 100%)
+
+### Kizuna Biến Nhân (Kageyama + Hinata)
+
+- Hinata [Tốc công] × 500%, không bị chắn, chắc chắn Nice Play, đối thủ chắn bóng + đỡ bóng - 100%
+
+### Lượt phòng thủ (Nishinoya)
+
+- Tích ≥ 3 stack [Vững Chắc] → Kỹ năng 3: tiêu hao → receive lớn + không BAD + team [Sức mạnh] + 15% + tinh thần đội + 20
+- Đồng đội toss ngay sau → reset CD Kỹ năng 4 → có thể dùng lại sớm
+
+---
+
+### Thứ tự ưu tiên đầu tư Jazz
+
+1. **Kageyama** — trục chính: buff mọi toss passive ([Chuyền bóng] × 40%), bảo đảm Nice Play, kích Biến Nhân
+2. **Hinata** — nguồn sát thương: Biến Nhân [Tốc công] × 500%, unblockable; cần [Tốc công] cao để tối đa hoá
+3. **Nishinoya** — nền phòng thủ: [Sức mạnh] + 15% toàn đội từ Kỹ năng 3, CH IV toss buff thụ động; build cơ bản vẫn đóng góp ổn định
 
 ---
