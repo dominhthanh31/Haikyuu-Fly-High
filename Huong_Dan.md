@@ -5,15 +5,15 @@
 
 1. **【Chỉ số】**: Chỉ số bao gồm Chỉ số chính và Chỉ số phụ. Có thể xem tại mục "Chi tiết" trong màn hình Chỉ số năng lực. Chỉ số chính là năng lực cơ bản của thành viên, còn Chỉ số phụ là yếu tố tăng cường năng lực cơ bản.
 
-2. **【Chỉ số chính】**: Mỗi thành viên có 7 chỉ số chính: [Tốc công], [Đập mạnh], [Chuyền bóng], [Giao bóng], [Đỡ bóng], [Chắn bóng], [Cứu bóng]. Trong đó, [Tốc công], [Đập mạnh], [Chuyền bóng], [Giao bóng] là chỉ số tấn công; [Đỡ bóng], [Chắn bóng], [Cứu bóng] là chỉ số phòng thủ.
+2. **【Chỉ số chính】**: Mỗi thành viên có 7 chỉ số chính: [Tốc công (速攻)], [Đập mạnh (強打)], [Chuyền bóng (トス)], [Giao bóng (サーブ)], [Đỡ bóng (レシーブ)], [Chắn bóng (ブロック)], [Cứu bóng (カバー)]. Trong đó, [Tốc công], [Đập mạnh], [Chuyền bóng], [Giao bóng] là chỉ số tấn công; [Đỡ bóng], [Chắn bóng], [Cứu bóng] là chỉ số phòng thủ.
 
 3. **【Chỉ số phụ】**:
-   - ① **Ý thức**: Khi thành viên thực hiện Giao bóng/Đập bóng/Chuyền bóng, tăng tỷ lệ xảy ra Nice Play.
-   - ② **Sức mạnh**: Khi thành viên thực hiện Giao bóng/Đập bóng/Chuyền bóng, tăng sức mạnh khi xảy ra Nice Play.
-   - ③ **Kỹ thuật tấn công**: Tăng sức mạnh Giao bóng/Đập bóng/Chuyền bóng của thành viên.
-   - ④ **Phản xạ**: Khi thành viên thực hiện Đỡ bóng/Chắn bóng/Cứu bóng, tăng tỷ lệ xảy ra Nice Play.
-   - ⑤ **Tinh thần**: Khi thành viên thực hiện Đỡ bóng/Chắn bóng/Cứu bóng, tăng sức mạnh khi xảy ra Nice Play.
-   - ⑥ **Kỹ thuật phòng thủ**: Tăng sức mạnh Đỡ bóng/Chắn bóng/Cứu bóng của thành viên.
+   - ① **Ý thức (意識)**: Khi thành viên thực hiện Giao bóng/Đập bóng/Chuyền bóng, tăng tỷ lệ xảy ra Nice Play.
+   - ② **Sức mạnh (パワー)**: Khi thành viên thực hiện Giao bóng/Đập bóng/Chuyền bóng, tăng sức mạnh khi xảy ra Nice Play.
+   - ③ **Kỹ thuật tấn công (攻撃テクニック)**: Tăng sức mạnh Giao bóng/Đập bóng/Chuyền bóng của thành viên.
+   - ④ **Phản xạ (反応)**: Khi thành viên thực hiện Đỡ bóng/Chắn bóng/Cứu bóng, tăng tỷ lệ xảy ra Nice Play.
+   - ⑤ **Tinh thần (メンタル)**: Khi thành viên thực hiện Đỡ bóng/Chắn bóng/Cứu bóng, tăng sức mạnh khi xảy ra Nice Play.
+   - ⑥ **Kỹ thuật phòng thủ (守備テクニック)**: Tăng sức mạnh Đỡ bóng/Chắn bóng/Cứu bóng của thành viên.
 
 4. **【Tăng chỉ số】**: Chỉ số tăng lên khi thành viên lên cấp, lên hạng hoặc trang bị Tiềm năng. Chỉ số càng cao, năng lực tương ứng của thành viên càng mạnh.
 
@@ -247,9 +247,13 @@
 
 **Chỉ đạo kỹ thuật:** Sức mạnh đập mạnh của đồng đội + [Đập mạnh] × 20%. Khi bắt đầu trận, thành viên Starting có [Đập mạnh] cao nhất được +50% [Đập mạnh].
 
-#### Yamiji Takeyuki (闇路建行) 
+#### Yamiji Takeyuki (闇路建行)
 
 **Chỉ đạo kỹ thuật:** Khi bắt đầu trận, Sĩ khí đội +30. Khi đội kích hoạt Giác ngộ Sĩ khí, [Đập mạnh/Tốc công] của đồng đội +50%. Sau khi kích hoạt Giác ngộ Sĩ khí, spike đầu tiên (đập mạnh/tốc công) + [Đập mạnh/Tốc công] × 50%.
+
+#### Kurosu Housou (黒須法宗)
+
+**Chỉ đạo kỹ thuật:** Khi bắt đầu trận, [Ý thức] của đồng đội -30%, [Sức mạnh] của đồng đội +30%. Khi đồng đội thực hiện pha bóng, nếu [Kỹ thuật tấn công] vượt quá 40%, sức mạnh pha bóng lần này tăng thêm chỉ số tương ứng × 50%.
 
 ### 3. Danh sách hiệu ứng vị trí
 
