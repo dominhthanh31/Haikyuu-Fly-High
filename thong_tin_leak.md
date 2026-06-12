@@ -1,60 +1,8 @@
-# Kỹ Năng Nhân Vật – Bãi Biển Rực Lửa (Blazing Beach)
+# Kỹ Năng Nhân Vật – Thông Tin Leak
 
 ---
 
-## 1. KENJIRO SHIRABU (Bãi Biển Rực Lửa)
-
-### Kỹ Năng 1 – NIỀM TIN TUYỆT ĐỐI
-**Loại:** Thụ Động | Tăng Chỉ Số | Tinh Thần Đội
-
-- Cứ mỗi **10 điểm** Tinh Thần Đội tích lũy, chỉ số **Chuyền Bóng** tăng **0,5%**, tối đa **40%**, và Nhận Thức tăng **10%**, tối đa **200%**.
-- Khi KENJIRO SHIRABU có mặt trên sân, mỗi khi phe ta tung chiêu Tối Thượng, chỉ số Tấn Công Mạnh của người dùng chiêu đó tăng **3%**, tối đa **15%**.
-
----
-
-### Kỹ Năng 2 – CÚ DUMP CHIẾN THUẬT
-**Loại:** Chủ Động | Giảm Hồi Chiêu | Dump Người Chuyền  
-**Hồi chiêu:** 6 lần bóng qua lưới
-
-Thực hiện một cú Dump Người Chuyền không thể chặn với **140%** chỉ số Chuyền Bóng. Hồi chiêu tất cả kỹ năng Đập Bóng của các cầu thủ được đặt lại.
-
----
-
-### Kỹ Năng 3 – PHỐI HỢP ĐỈNH CAO
-**Loại:** Thụ Động | Tăng Cường Đội | Tinh Thần Đội
-
-- Khi trong [Thức Tỉnh Tinh Thần Đội], lúc tung **CHUYỀN TẬP TRUNG**, Nhận Thức của các cầu thủ tăng **110%** và Sức Mạnh tăng **150%**, kéo dài 2 lần bóng qua lưới. Sau cú đập, đội thoát khỏi [Thức Tỉnh Tinh Thần Đội].
-- Khi trên sân và đội **không** trong [Thức Tỉnh Tinh Thần Đội], Sức Mạnh của các cầu thủ tăng **5%**. Cứ mỗi **600 điểm** Tinh Thần Đội tích lũy, Sức Mạnh tăng thêm **25%**. Cứ mỗi **1200 điểm** Tinh Thần Đội tích lũy, Sức Mạnh tăng thêm **40%**.
-
----
-
-### Kỹ Năng 4 – CHUYỀN TẬP TRUNG
-**Loại:** Tối Thượng | Chủ Động | Tinh Thần Đội | Chuyền Bóng  
-**Hồi chiêu:** 8 lần bóng qua lưới
-
-Thực hiện cú Chuyền với **250%** chỉ số Chuyền Bóng. Khi trong [Thức Tỉnh Tinh Thần Đội], sức mạnh cú Đập Mạnh tiếp theo tăng thêm **150%** chỉ số Tấn Công Mạnh của người đập. Khi không trong [Thức Tỉnh Tinh Thần Đội], hồi chiêu của CHUYỀN TẬP TRUNG giảm **4 lần** bóng qua lưới.
-
----
-
-### Cộng Hưởng
-
-**SR2:**
-- Khi CHUYỀN TẬP TRUNG được tung, chỉ số Tấn Công Mạnh/Tấn Công Nhanh của các cầu thủ tăng **40%** chỉ số tương ứng, kéo dài 2 lần bóng qua lưới.
-- Khi đội vào [Thức Tỉnh Tinh Thần Đội], hồi chiêu của CHUYỀN TẬP TRUNG được đặt lại và chỉ số Chuyền Bóng tăng **40%**, kéo dài 4 lần bóng qua lưới.
-
-**SR4:**
-- Khi Tinh Thần Đội tăng tổng cộng **600 điểm**, Sức Mạnh tăng **100%**.
-- Khi **PHỐI HỢP ĐỈNH CAO** khiến đội thoát [Thức Tỉnh Tinh Thần Đội], Sức Mạnh của các cầu thủ tăng **40%** và Tinh Thần tăng **40%**, kéo dài đến lần tiếp theo đội vào [Thức Tỉnh Tinh Thần Đội].
-
----
-
-### Trang Bị – Tăng Chuyền Bóng & Sức Mạnh (cấp 1)
-Tăng chỉ số Chuyền Bóng của người trang bị thêm **12%**. Khi người trang bị có mặt trên sân và đội không trong [Thức Tỉnh Tinh Thần Đội], mỗi khi một cầu thủ trong đội chạm bóng, Sức Mạnh của cầu thủ đó tăng **5%**, kéo dài 2 lần bóng qua lưới.
-
----
----
-
-## 2. TAKAHIRO HANAMAKI (Bãi Biển Rực Lửa)
+## 1. TAKAHIRO HANAMAKI (Bãi Biển Rực Lửa)
 
 ### Kỹ Năng 1 – PHÒNG THỦ BÌNH TĨNH
 **Loại:** Thụ Động | Tăng Chỉ Số | Tinh Thần Đội
@@ -109,7 +57,7 @@ Tăng chỉ số Chuyền Bóng của người trang bị thêm **12%**. Khi đ�
 ---
 ---
 
-## 3. MORISUKE YAKU (Lễ Hội Pháo Hoa)
+## 2. MORISUKE YAKU (Lễ Hội Pháo Hoa)
 
 ### Kỹ Năng 1 – ĐỠ BÓNG DỰ ĐOÁN
 **Loại:** Thụ Động | Tăng Chỉ Số
@@ -162,7 +110,7 @@ Tăng chỉ số Đỡ Bóng của người trang bị thêm **12%**. Khi ngư�
 ---
 ---
 
-## 4. SHINSUKE KITA (Lễ Hội Pháo Hoa)
+## 3. SHINSUKE KITA (Lễ Hội Pháo Hoa)
 
 ### Kỹ Năng 1 – TẬP TRUNG ĐỘI
 **Loại:** Thụ Động | Tăng Chỉ Số
