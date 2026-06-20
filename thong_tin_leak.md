@@ -2,62 +2,7 @@
 
 ---
 
-## 1. TAKAHIRO HANAMAKI (Bãi Biển Rực Lửa)
-
-### Kỹ Năng 1 – PHÒNG THỦ BÌNH TĨNH
-**Loại:** Thụ Động | Tăng Chỉ Số | Tinh Thần Đội
-
-- Kỹ Thuật Phòng Thủ tăng **7%**.
-- Khi đội vào [Thức Tỉnh Tinh Thần Đội], chỉ số Chuyền Bóng tăng **10%** và chỉ số Đỡ Bóng tăng **20%**, kéo dài 2 pha.
-- Khi đội thoát [Thức Tỉnh Tinh Thần Đội], chỉ số Đỡ Bóng tăng **10%** và chỉ số Chuyền Bóng tăng **20%**, kéo dài 2 pha.
-
----
-
-### Kỹ Năng 2 – CHUYỀN ỔN ĐỊNH
-**Loại:** Chủ Động | Tinh Thần Đội | Chuyền Bóng  
-**Hồi chiêu:** 6 lần bóng qua lưới
-
-Thực hiện cú Chuyền với **140%** chỉ số Chuyền Bóng. Khi đội **không** trong [Thức Tỉnh Tinh Thần Đội], Tinh Thần Đội tăng **20 điểm**. Khi đội **đang** trong [Thức Tỉnh Tinh Thần Đội], chỉ số Tấn Công Mạnh/Tấn Công Nhanh của các cầu thủ tăng **10%** chỉ số tương ứng, kéo dài 2 lần bóng qua lưới.
-
----
-
-### Kỹ Năng 3 – CỨU BÓNG PHỐI HỢP
-**Loại:** Thụ Động | Tăng Cường Đội | Tinh Thần Đội
-
-Khi trên sân và đội không trong [Thức Tỉnh Tinh Thần Đội], cuối mỗi pha bóng, Tinh Thần Đội tăng **10 điểm**. Ngoài ra, Kỹ Thuật Tấn Công và Kỹ Thuật Phòng Thủ của các cầu thủ tăng **15%**, kéo dài 1 pha. Cứ mỗi **20 điểm** Tinh Thần Đội tích lũy:
-- Hồi chiêu tối đa của **PHÒNG THỦ LINH HOẠT** giảm **1 lần** bóng qua lưới.
-- Chỉ số Đỡ Bóng tăng **2%**, tối đa **80%**.
-- Phản Xạ tăng **20%**, tối đa **200%**.
-
----
-
-### Kỹ Năng 4 – PHÒNG THỦ LINH HOẠT
-**Loại:** Tối Thượng | Chủ Động | Tinh Thần Đội | Đỡ Bóng  
-**Hồi chiêu:** 8 lần bóng qua lưới
-
-Thực hiện cú Đỡ Bóng với **260%** chỉ số Đỡ Bóng. Nếu đội **chưa** vào [Thức Tỉnh Tinh Thần Đội] trong trận này, Tinh Thần Đội tăng **20 điểm**. Nếu đội **đã** vào [Thức Tỉnh Tinh Thần Đội] trong trận này, sức mạnh cú Đỡ Bóng tăng thêm **40%** chỉ số Đỡ Bóng và Tinh Thần Đội tăng **10 điểm**.
-
----
-
-### Cộng Hưởng
-
-**SR2:**
-- Khi TAKAHIRO HANAMAKI trên sân, cứ mỗi **20 điểm** Tinh Thần Đội tích lũy, sức mạnh cú Chuyền Bóng tăng **20%** chỉ số Chuyền Bóng, tối đa **200%**.
-- Khi Tinh Thần Đội tăng tổng cộng **200 điểm**, **CHUYỀN ỔN ĐỊNH** được coi là chiêu Tối Thượng và chỉ số Chuyền Bóng tăng thêm **3000 điểm**.
-
-**SR4:**
-- Khi TAKAHIRO HANAMAKI vào sân, cuối pha bóng đầu tiên, hồi chiêu của **PHÒNG THỦ LINH HOẠT** được đặt lại và đội nhận được **150 điểm** Tinh Thần Đội.
-- Khi TAKAHIRO HANAMAKI tung chiêu Tối Thượng, Kỹ Thuật Tấn Công của các cầu thủ tăng **20%**, kéo dài 2 lần bóng qua lưới.
-
----
-
-### Trang Bị – Tăng Chuyền Bóng (cấp 1)
-Tăng chỉ số Chuyền Bóng của người trang bị thêm **12%**. Khi đội không trong [Thức Tỉnh Tinh Thần Đội], mỗi khi người trang bị đỡ bóng, sức mạnh cú đỡ đó tăng thêm **60%** chỉ số Đỡ Bóng, kéo dài 2 lần bóng qua lưới.
-
----
----
-
-## 2. MORISUKE YAKU (Lễ Hội Pháo Hoa)
+## 1. MORISUKE YAKU (Lễ Hội Pháo Hoa)
 
 ### Kỹ Năng 1 – ĐỠ BÓNG DỰ ĐOÁN
 **Loại:** Thụ Động | Tăng Chỉ Số
@@ -110,7 +55,7 @@ Tăng chỉ số Đỡ Bóng của người trang bị thêm **12%**. Khi ngư�
 ---
 ---
 
-## 3. SHINSUKE KITA (Lễ Hội Pháo Hoa)
+## 2. SHINSUKE KITA (Lễ Hội Pháo Hoa)
 
 ### Kỹ Năng 1 – TẬP TRUNG ĐỘI
 **Loại:** Thụ Động | Tăng Chỉ Số
