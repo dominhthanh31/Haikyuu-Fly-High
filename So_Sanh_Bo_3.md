@@ -1,4 +1,4 @@
-# SO SÁNH 5 BỘ 3 — Bunkasai · Jazz · Tắm Biển · Fuyuyasumi · Kaisuiyoku
+# SO SÁNH 5 BỘ 3 — Bunkasai · Jazz · Kaisuiyoku II · Fuyuyasumi · Kaisuiyoku I
 ---
 
 ## I. ĐÁNH GIÁ TỔNG THỂ
@@ -7,9 +7,9 @@
 |---|---|---|---|---|
 | Bunkasai | Oikawa Tooru | Ushijima Wakatoshi | Iwaizumi Hajime | **9.5/10** |
 | Jazz | Kageyama Tobio | Hinata Shoyo | Nishinoya Yuu | **9/10** |
-| Tắm Biển | Shirabu Kenjiro | Ushijima Wakatoshi | Hanamaki Takahiro | **8.5/10** |
+| Kaisuiyoku II | Shirabu Kenjiro | Ushijima Wakatoshi | Hanamaki Takahiro | **8.5/10** |
 | Fuyuyasumi | Miya Atsumu | Miya Osamu | Tendo Satori | **8/10** |
-| Kaisuiyoku | Akaashi Keiji | Bokuto Kotaro | Aone Takanobu | **7.5/10** |
+| Kaisuiyoku I | Akaashi Keiji | Bokuto Kotaro | Aone Takanobu | **7.5/10** |
 
 
 ### Bunkasai — 9.5/10
@@ -24,12 +24,11 @@
 - **Kizuna:** [Tốc công]/[Chuyền bóng] đồng đội + 5%/member Jazz (Lv.5). CH IV Nishi: toss → spiker [Sức mạnh] += [Kỹ thuật tấn công] × 30% (max + 100%) + [Kỹ thuật tấn công] × 30% (max + 40%).
 - **Điểm yếu:** Hinata phụ thuộc đội (CH IV triệt [Ý thức]). Nishinoya không tự ghi điểm (Libero).
 
-### Tắm Biển — 8.5/10
-- **Tấn công:** Ushijima (Tắm Biển) ngoài Bùng Nổ: KN4 guaranteed crit ×260% ×(KN3 +240% TĐM max + SR4 +40%/rally) + [SM] tối đa +180% → trần sát thương cực cao, scale bền vững theo TT. KN2 phát bóng ×140% + TT +20.
-- **Phòng thủ:** Hanamaki [Đỡ Bóng] scale theo TT tích lũy (+2%/20TT, max +80%), KN4 ×260%/×300% (sau Bùng Nổ), Memory ×60%/lần đỡ ngoài Bùng Nổ. KN1 buff [CB]+20%/[ĐB]+10% khi thoát Bùng Nổ — bảo vệ chủ động ở giai đoạn chuyển tiếp.
-- **Kizuna:** Bãi Biển Rực Lửa: +3 TT/pha/thành viên (tối đa +18/pha với 3 người trên sân) → tích TT cực nhanh. Khi Bùng Nổ: [KTTA]+[KTPH]+10% (3 pha). Shirabu+Ushijima: Kizuna ×460% TĐM; khi Bùng Nổ → thoát ngay + [TĐM]+40% (2 pha) cho Ushijima.
-- **Cơ chế:** Tích TT → Bùng Nổ → Shirabu KN3/Kizuna thoát Bùng Nổ ngay → Ushijima guaranteed crit với full stacks → tái tích TT. Chu kỳ lặp liên tục.
-- **Điểm yếu:** Ushijima KN3 −50% TĐM trong Bùng Nổ → bắt buộc thoát nhanh, quản lý phức tạp. Không có Libero → sàn phòng thủ thấp hơn Jazz.
+### Kaisuiyoku II — 8.5/10
+- **Tấn công:** Ushijima đánh ngoài Bùng Nổ với guaranteed crit + [SM] scale theo TT tích lũy → trần sát thương cao bền vững. Shirabu điều tiết Bùng Nổ, Hanamaki tích TT và hỗ trợ phòng thủ.
+- **Cơ chế:** Tích TT → Bùng Nổ → thoát ngay (Shirabu/Kizuna) → Ushijima đánh crit ngoài Bùng Nổ → lặp lại. Hanamaki CH IV vào sân: +150 TT ngay.
+- **Kizuna:** Bãi Biển Rực Lửa +TT/pha cực nhanh. Shirabu+Ushijima thoát Bùng Nổ ngay + buff TĐM.
+- **Điểm yếu:** Cơ chế phức tạp, yêu cầu quản lý TT và Bùng Nổ. Không có Libero → sàn phòng thủ thấp.
 
 ### Fuyuyasumi — 8/10
 - **Tấn công:** Osamu hybrid tốc công/chuyền bóng, CH IV chuyền thành tuyệt chiêu từ đầu trận. Atsumu giao bóng kép (vô hiệu tuyệt chiêu đối thủ).
@@ -37,7 +36,7 @@
 - **Kizuna:** [Sức mạnh] Atsumu/Osamu + 30%. [Kỹ thuật] + 2/2%/member. Tendo Nice Play đầu rally guaranteed.
 - **Điểm yếu:** Tendo bất ổn (gamble). Osamu trần sát thương thấp. [Cơ Trí] yêu cầu [Ý thức] ≤ 30%.
 
-### Kaisuiyoku — 7.5/10
+### Kaisuiyoku I — 7.5/10
 - **Tấn công:** Bokuto [Đoàn Kết] cộng dồn → tuyệt chiêu bùng nổ mạnh khi [Phong Độ]. Akaashi đập hai × 260% không chắn.
 - **Phòng thủ:** Akaashi buff [Đỡ bóng]/[Chắn bóng] đồng đội + 25% (trước bùng nổ). Aone chắn bóng + debuff chuyền đối thủ.
 - **Kizuna:** Tinh thần đội + 20/rally. Chắn 2/3 người → [Phản xạ] + 10%.
@@ -47,7 +46,7 @@
 
 ## II. SO SÁNH 5 TAY ĐẬP
 
-| Tiêu chí | Hinata Jazz | Bokuto Kaisuiyoku | Ushijima Bunkasai | Ushijima Tắm Biển | Osamu Fuyuyasumi |
+| Tiêu chí | Hinata Jazz | Bokuto Kaisuiyoku I | Ushijima Bunkasai | Ushijima Kaisuiyoku II | Osamu Fuyuyasumi |
 |---|---|---|---|---|---|
 | **Kiểu tấn công** | Tốc công | Đập mạnh | Đập mạnh | Đập mạnh + Phát bóng | Tốc công + Chuyền |
 | **Trần sát thương** | 10 | 9 | 9.5 | 9.5 | 7 |
@@ -62,11 +61,11 @@
 - Phòng thủ bất ngờ tốt: Kỹ năng 3 chắn bóng + Kizuna buff tốc công/chuyền bóng.
 - Phụ thuộc đội nặng → hẹp đội hình nhưng khi đủ điều kiện thì mạnh nhất.
 
-### Bokuto Kaisuiyoku — Buff đội + bùng nổ
+### Bokuto Kaisuiyoku I — Buff đội + bùng nổ
 - [Đoàn Kết] buff chỉ số chính đồng đội + 0.16%/stack (max 199) + bùng nổ chỉ số chính toàn đội + 20%.
 - Chu kỳ [Thăng Trầm]/[Phong Độ]: đầu trận yếu (không tuyệt chiêu), sau bùng nổ tinh thần cực mạnh.
 - CH II: [Sức mạnh] + [Ý thức] × 85% (max + 100%). CH IV: [Sức mạnh] + 3%/stack (max + 150%) khi [Phong Độ].
-- Tay đập buff đội mạnh nhất trong 4 → vừa ghi điểm vừa nâng toàn đội.
+- Tay đập buff đội mạnh nhất trong 5 → vừa ghi điểm vừa nâng toàn đội.
 
 ### Ushijima Bunkasai — Tự lập nhất
 - [Ý thức] × 2 (Kỹ năng 3) + 8%/Nice Play (max 99 stacks) → scale gần như vô hạn.
@@ -74,12 +73,11 @@
 - CH IV: [Ý thức] + 100% đầu trận + [Đập mạnh] + 6%/rally (max + 30%).
 - Giao bóng × 140% + debuff [Đỡ bóng] đối thủ × 100%. Gần như không buff đồng đội.
 
-### Ushijima Tắm Biển — Stacking ngoài Bùng Nổ
-- [Hỗ Trợ] stacking thụ động: +1 stack/10 TT tích lũy → max 120 stacks = [TĐM]+240% (KN3) + SR4 [SM] tối đa +180% khi đập ngoài Bùng Nổ. SR4 còn thêm +40% TĐM đầu mỗi rally ngoài Bùng Nổ.
-- KN1 ngoài Bùng Nổ: guaranteed crit (Nice Play chắc chắn) không cần điều kiện từ setter. KN4 ×260% guaranteed crit → trần sát thương tương đương Bunkasai nhưng qua TT thay vì [Ý thức].
-- Khác Bunkasai: stack qua TT tích lũy của đội, không cần Oikawa Nice Play chain để scale. Độc lập hơn về nguồn buff, nhưng ràng buộc với đội TT.
-- Nghịch lý cốt lõi: đội muốn vào Bùng Nổ (Shirabu/Hanamaki tích TT), Ushijima muốn ở ngoài → giải quyết bằng Kizuna Shirabu/Ushijima thoát Bùng Nổ ngay sau khi kích hoạt.
-- KN2 nhảy phát bóng ×140% + [PB] scaling + TT +20 → đóng góp thứ cấp nhưng nhất quán.
+### Ushijima Kaisuiyoku II — Stacking ngoài Bùng Nổ
+- [Hỗ Trợ] stacking theo TT tích lũy → [TĐM]+240% + [SM]+180% khi đánh ngoài Bùng Nổ.
+- KN4 guaranteed crit ngoài Bùng Nổ → trần sát thương tương đương Bunkasai, scale qua TT đội thay vì [Ý thức].
+- Khác Bunkasai: ít phụ thuộc Nice Play chain, nhưng ràng buộc với TT đội.
+- KN2 nhảy phát bóng + TT +20 → đóng góp thứ cấp nhất quán.
 
 ### Osamu Fuyuyasumi — Linh hoạt nhất
 - Hybrid: tốc công × 255% (+ 60% threshold, không chắn) + chuyền bóng trở thành tuyệt chiêu từ đầu nhờ CH IV.
@@ -91,7 +89,7 @@
 
 ## III. SO SÁNH 5 CHUYỀN HAI
 
-| Tiêu chí | Kageyama Jazz | Oikawa Bunkasai | Akaashi Kaisuiyoku | Shirabu Tắm Biển | Atsumu Fuyuyasumi |
+| Tiêu chí | Kageyama Jazz | Oikawa Bunkasai | Akaashi Kaisuiyoku I | Shirabu Kaisuiyoku II | Atsumu Fuyuyasumi |
 |---|---|---|---|---|---|
 | **Chất lượng chuyền** | 9 | 10 | 6 | 8 | 8 |
 | **Buff tấn công đồng đội** | 9 | 10 | 9 | 9 | 9 |
@@ -107,11 +105,11 @@
 - Giao bóng × 310% (4 [Dẫn dắt]).
 - Toàn diện nhất, không có điểm yếu rõ ràng.
 
-### Akaashi Kaisuiyoku — 8/10
+### Akaashi Kaisuiyoku I — 8/10
 - Setter + attacker hybrid: đập hai × 260% không chắn. CH IV cuối trận + [Chuyền bóng] × 0.6%/cộng dồn tích lũy (max + 100%) → × 360%.
 - CH II: [Đỡ bóng]/[Chắn bóng] đồng đội + 25% (trước bùng nổ). Tinh thần + 40/rally. [Sức mạnh] + 30%.
 - Kỹ năng 2: khi bùng nổ → [Ý thức] + 70% → chuyển cho spiker × 50% (max + 60%).
-- Phòng thủ đội mạnh nhất trong 4 setter. Tự ghi điểm mạnh nhờ đập hai.
+- Phòng thủ đội mạnh nhất trong 5 setter. Tự ghi điểm mạnh nhờ đập hai.
 
 ### Atsumu Fuyuyasumi — 8/10
 - [Cơ Trí] cho đồng đội [Ý thức] ≤ 30%: [Kỹ thuật tấn công/phòng thủ] + 10%. Sau tuyệt chiêu: + 20%/+ 15%.
@@ -119,12 +117,11 @@
 - CH IV: [Kỹ thuật tấn công] + 35%, [Kỹ thuật phòng thủ] + 25% cho đồng đội > 40%. Guaranteed Nice Play khi [Kỹ thuật tấn công] ≥ 60%.
 - Hạn chế: [Cơ Trí] yêu cầu [Ý thức] ≤ 30% → giới hạn đội hình.
 
-### Shirabu Tắm Biển — 8/10
-- Trong Bùng Nổ: SR2 reset CD 〈Toàn Lực Tung Toss〉 + [CB]+40% → spam KN4 liên tiếp; mỗi KN4 kích KN3 → spiker [SM]+150%+[YT]+110% (2 pha). Kizuna Shirabu/Ushijima ×460% TĐM để thoát Bùng Nổ ngay + [TĐM]+40% (2 pha).
-- Ngoài Bùng Nổ: KN4 tự giảm CD 4 lần → hồi chiêu thực chỉ 4 lần; KN3 [SM]+5% thường trực + thresholds TT 600/1200 thêm +25%/+40% [SM] đồng đội.
-- KN1 [ĐM]+15%/5 ult stack thụ động → Ushijima tích lũy qua mọi lần kích tuyệt chiêu. SR4 [SM]+100% khi TT 600 → Dump KN2 ×140% thiệt hại tăng vọt.
-- KN2 Dump unblockable + reset CD đập đồng đội → đổi hướng tấn công tức thì sau dump.
-- Không có giao bóng → điểm yếu rõ ràng so với Oikawa/Atsumu/Kageyama.
+### Shirabu Kaisuiyoku II — 8/10
+- Trong Bùng Nổ: spam KN4 (SR2 reset CD) → kích KN3 buff spiker mạnh. Kizuna thoát Bùng Nổ ngay + buff TĐM cho Ushijima.
+- Ngoài Bùng Nổ: KN4 tự giảm CD + KN3 buff [SM] thường trực; ngưỡng TT buff thêm [SM] đồng đội.
+- KN2 Dump unblockable + reset CD đập đồng đội → đổi hướng tấn công tức thì.
+- Không có giao bóng → điểm yếu so với các setter khác.
 
 ### Kageyama Jazz — 8/10
 - [Chi Phối] system: đồng đội chuyền bóng → tích stack → tiêu hao = Nice Play bảo đảm + [Chuyền bóng] + 5% + [Tốc công] + 5% toàn đội (max 20%). CH II: 3 stack đầu trận.
@@ -135,9 +132,9 @@
 
 ---
 
-## IV. SO SÁNH THÀNH VIÊN THỨ 3
+## IV. SO SÁNH THÀNH VIÊN PHÒNG THỦ
 
-| Tiêu chí | Nishinoya Jazz | Iwaizumi Bunkasai | Aone Kaisuiyoku | Hanamaki Tắm Biển | Tendo Fuyuyasumi |
+| Tiêu chí | Nishinoya Jazz | Iwaizumi Bunkasai | Aone Kaisuiyoku I | Hanamaki Kaisuiyoku II | Tendo Fuyuyasumi |
 |---|---|---|---|---|---|
 | **Vai trò** | Libero | WS (hybrid) | MB chắn | WS (Đỡ/Hỗ trợ) | MB chắn + tốc công |
 | **Phòng thủ cá nhân** | 9 | 10 | 8 | 7 | 6 |
@@ -160,21 +157,20 @@
 - CH IV: Nishinoya hoặc thành viên có kỹ năng tốc công chuyền bóng → người đập mạnh/tốc công [Sức mạnh] += [Kỹ thuật tấn công] × 30% (max + 100%) + [Kỹ thuật tấn công] × 30% (max + 40%).
 - Kỹ năng 2 chuyền bóng hybrid: [Chuyền bóng] × 150% + 30%/đồng đội có kỹ năng chuyền trên sân → ≥ 3 đồng đội = tuyệt chiêu.
 - Kỹ năng 4 tuyệt chiêu: đỡ [Đỡ bóng] × 260%, mỗi stack [Tập Trung] trên đối thủ + 3% [Kỹ thuật phòng thủ] → > 40% = chắc chắn Nice Play.
-- Không tự ghi điểm (Libero), nhưng phòng thủ → chuyền → buff spiker là chuỗi hoàn chỉnh nhất trong 4 thành viên thứ 3.
+- Không tự ghi điểm (Libero), nhưng phòng thủ → chuyền → buff spiker là chuỗi hoàn chỉnh nhất trong 5 thành viên phòng thủ.
 
-### Aone Kaisuiyoku — Debuff đối thủ mạnh nhất
+### Aone Kaisuiyoku I — Debuff đối thủ mạnh nhất
 - [Khóa Mục Tiêu] tracking đối thủ → [Chắn Bóng Kiên Cường] stacking: [Phản xạ] + 10%/stack (max + 200%).
 - Giao bóng × 140% + hồi chiêu chuyền đối thủ + 4 → phá nhịp chuyền hai đối phương.
 - Thresholds: > 2 (sức mạnh chắn + 10%), > 4 (hồi chiêu giảm), > 6 ([Tinh thần] + 10%), > 8 (hồi chiêu giảm nữa).
 - CH IV: không ở sân → [Chắn bóng] hàng trước + 25% + [Kỹ thuật] đồng đội + 5~15%.
 - Buff đội chủ yếu khi **rời sân** → mâu thuẫn vai trò chắn bóng chính trên sân.
 
-### Hanamaki Tắm Biển — Catalyst TT
-- CH IV on entry: +150 TT tích lũy ngay + KN4 CD reset → pha 1 đã có tuyệt chiêu đỡ bóng ×260%. 150 TT = Shirabu KN1 [YT]+200% (max) sẵn ngay; +5 pha KN3 (+10TT/pha) → đạt 200 TT → CH II Hanamaki kích hoạt (KN2 thành Tuyệt Chiêu + [CB]+3000).
-- KN1 buff hai chiều: vào Bùng Nổ → [CB]+20%/[ĐB]+10%; thoát Bùng Nổ → [ĐB]+10%/[CB]+20% (2 pha). Bao phủ toàn bộ chu kỳ Bùng Nổ của đội.
-- KN4 post-Bùng Nổ: ×300% ([ĐB]×40% bonus) → sức mạnh phòng thủ đáng kể dù là WS.
-- Memory: [ĐB]+12% + đỡ bóng ngoài Bùng Nổ → thêm [ĐB]×60% (2 pha) — boost phòng thủ đáng kể trong giai đoạn ngoài Bùng Nổ.
-- Nhược điểm: WS không chuyên phòng thủ như Libero. Không có debuff đối thủ → dưới Aone ở tiêu chí này. Buff mạnh nhất (CH IV entry) chỉ kích hoạt một lần/set trong lineup cố định.
+### Hanamaki Kaisuiyoku II — Catalyst TT
+- CH IV vào sân: +150 TT ngay + reset KN4 CD → jump-start chu kỳ TT và tuyệt chiêu từ pha 1.
+- KN1 buff hai chiều: vào Bùng Nổ buff [CB]/[ĐB], thoát Bùng Nổ buff ngược lại → bao phủ toàn chu kỳ.
+- KN4 ×300% sau Bùng Nổ. Memory boost [ĐB] ngoài Bùng Nổ.
+- Nhược điểm: WS không chuyên phòng thủ, không debuff đối thủ. CH IV entry chỉ dùng được một lần/set.
 
 ### Tendo Fuyuyasumi — Gamble cao, trần cao nhưng sàn thấp
 - [Ý thức] thay [Phản xạ] cho MỌI Nice Play → Nice Play: + 65%; không Nice Play: - 85%. Cực bất ổn.
@@ -186,7 +182,29 @@
 
 ---
 
-## V. CHUỖI KỸ NĂNG JAZZ (Phân tích chi tiết)
+## V. ĐÁNH GIÁ CHỦ ĐỀ
+
+| Chủ đề | Nhân vật |
+|---|---|
+| Bunkasai | Oikawa · Ushijima · Iwaizumi |
+| Jazz | Kageyama · Hinata · Nishinoya |
+| Kaisuiyoku | Shirabu · Ushijima · Hanamaki · Akaashi · Bokuto · Aone (**6 nhân vật**) |
+| Fuyuyasumi | Atsumu · Osamu · Tendo |
+
+**Kaisuiyoku** là chủ đề duy nhất có 2 bộ 3 (6 nhân vật). Game đề xuất ghép cả 6 thành 1 đội — trục chính là **TT (Tinh Thần)**, cân bằng ổn định ngoài Bùng Nổ và sát thương cao trong Bùng Nổ:
+
+| Nhân vật | Vai trò trong đội 6 người |
+|---|---|
+| Hanamaki (KII) | CH IV vào sân: +150 TT ngay + reset KN4 CD → jump-start chu kỳ TT từ pha 1. KN1 buff [CB]/[ĐB] hai chiều vào/ra Bùng Nổ → bao phủ toàn chu kỳ |
+| Aone (KI) | [Khóa Mục Tiêu] → [Chắn Bóng Kiên Cường] stacking [Phản xạ] +10%/stack (max +200%). Giao bóng debuff hồi chiêu chuyền đối thủ +4. Chắn bóng cũng đóng góp TT cho đội |
+| Ushijima (KII) | Main DPS: [Hỗ Trợ] scale theo TT tích lũy → [TĐM]+240% + [SM]+180% ngoài Bùng Nổ. KN4 guaranteed crit ngoài Bùng Nổ. KN2 phát bóng + TT +20 |
+| Shirabu (KII) | Kizuna thoát Bùng Nổ ngay + buff TĐM cho Ushijima. Spam KN4 trong Bùng Nổ (SR2 reset CD) → kích KN3 buff [SM]. Ngưỡng TT buff thêm [SM] đồng đội |
+| Bokuto (KI) | [Đoàn Kết] buff chỉ số chính đồng đội +0.16%/stack (max 199 stacks). Khi Bùng Nổ: bùng nổ chỉ số chính toàn đội +20% + CH IV [SM] +3%/stack (max +150%) |
+| Akaashi (KI) | Buff [Ý thức]/[Đập mạnh]/[SM] cho spiker mỗi rally + bổ sung TT cuối rally. CH II [ĐB]/[CB] đồng đội +25%. KN2 khi Bùng Nổ → [Ý thức] +70% → chuyển ×50% cho spiker |
+
+---
+
+## X. CHUỖI KỸ NĂNG JAZZ (Phân tích chi tiết)
 
 ### Buff Kizuna Jazz Lv.5 mỗi đầu rally (3 Jazz trên sân)
 
