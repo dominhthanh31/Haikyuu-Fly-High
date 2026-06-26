@@ -195,12 +195,12 @@
 
 | Nhân vật | Vai trò trong đội 6 người |
 |---|---|
-| Hanamaki (KII) | CH IV vào sân: +150 TT ngay + reset KN4 CD → jump-start chu kỳ TT từ pha 1. KN1 buff [CB]/[ĐB] hai chiều vào/ra Bùng Nổ → bao phủ toàn chu kỳ |
-| Aone (KI) | [Khóa Mục Tiêu] → [Chắn Bóng Kiên Cường] stacking [Phản xạ] +10%/stack (max +200%). Giao bóng debuff hồi chiêu chuyền đối thủ +4. Chắn bóng cũng đóng góp TT cho đội |
-| Ushijima (KII) | Main DPS: [Hỗ Trợ] scale theo TT tích lũy → [TĐM]+240% + [SM]+180% ngoài Bùng Nổ. KN4 guaranteed crit ngoài Bùng Nổ. KN2 phát bóng + TT +20 |
-| Shirabu (KII) | Kizuna thoát Bùng Nổ ngay + buff TĐM cho Ushijima. Spam KN4 trong Bùng Nổ (SR2 reset CD) → kích KN3 buff [SM]. Ngưỡng TT buff thêm [SM] đồng đội |
-| Bokuto (KI) | [Đoàn Kết] buff chỉ số chính đồng đội +0.16%/stack (max 199 stacks). Khi Bùng Nổ: bùng nổ chỉ số chính toàn đội +20% + CH IV [SM] +3%/stack (max +150%) |
-| Akaashi (KI) | Buff [Ý thức]/[Đập mạnh]/[SM] cho spiker mỗi rally + bổ sung TT cuối rally. CH II [ĐB]/[CB] đồng đội +25%. KN2 khi Bùng Nổ → [Ý thức] +70% → chuyển ×50% cho spiker |
+| Hanamaki | Đặc tính IV vào sân: +150 TT ngay + reset Kỹ năng 4 CD → jump-start chu kỳ TT từ pha 1. Kỹ năng 1 buff [Chuyền Bóng]/[Đỡ Bóng] hai chiều vào/ra Bùng Nổ → bao phủ toàn chu kỳ |
+| Aone | [Khóa Mục Tiêu] → [Chắn Bóng Kiên Cường] stacking [Phản xạ] +10%/stack (max +200%). Giao bóng debuff hồi chiêu chuyền đối thủ +4. Chắn bóng cũng đóng góp TT cho đội |
+| Ushijima | Main DPS: [Hỗ Trợ] scale theo TT tích lũy → [Tốc Độ Mạnh]+240% + [Sức Mạnh]+180% ngoài Bùng Nổ. Kỹ năng 4 guaranteed crit ngoài Bùng Nổ. Kỹ năng 2 phát bóng + TT +20 |
+| Shirabu | Kizuna thoát Bùng Nổ ngay + buff Tốc Độ Mạnh cho Ushijima. Spam Kỹ năng 4 trong Bùng Nổ (cấp kỹ năng 2 reset CD) → kích Kỹ năng 3 buff [Sức Mạnh]. Ngưỡng TT buff thêm [Sức Mạnh] đồng đội |
+| Bokuto | [Đoàn Kết] buff chỉ số chính đồng đội +0.16%/stack (max 199 stacks). Khi Bùng Nổ: bùng nổ chỉ số chính toàn đội +20% + Đặc tính IV [Sức Mạnh] +3%/stack (max +150%) |
+| Akaashi | Buff [Ý thức]/[Đập mạnh]/[Sức Mạnh] cho spiker mỗi rally + bổ sung TT cuối rally. Đặc tính II [Đỡ Bóng]/[Chuyền Bóng] đồng đội +25%. Kỹ năng 2 khi Bùng Nổ → [Ý thức] +70% → chuyển ×50% cho spiker |
 
 ---
 

@@ -2,60 +2,7 @@
 
 ---
 
-## 1. MORISUKE YAKU (Lễ Hội Pháo Hoa)
-
-### Kỹ Năng 1 – ĐỠ BÓNG DỰ ĐOÁN
-**Loại:** Thụ Động | Tăng Chỉ Số
-
-Chỉ số Đỡ Bóng của Yaku (Lễ Hội Pháo Hoa) tăng **10%**. Khi Yaku (Lễ Hội Pháo Hoa) có mặt trên sân, mỗi khi một cầu thủ phe ta sở hữu kỹ năng Đỡ Bóng thực hiện chạm bóng PERFECT, Yaku (Lễ Hội Pháo Hoa) nhận 1 chồng [Đọc Bóng], mỗi chồng tăng chỉ số Đỡ Bóng và Cứu Bóng của anh **1%**.
-
----
-
-### Kỹ Năng 2 – A-SET
-**Loại:** Chủ Động | Tăng Cường Đội | Chuyền Bóng
-**Hồi chiêu:** 6 lần bóng qua lưới
-
-Yaku (Lễ Hội Pháo Hoa) thực hiện cú Chuyền với **150%** chỉ số Chuyền Bóng. Khi phe ta thực hiện cú Đỡ Bóng PERFECT, cú Chuyền này chắc chắn chí mạng. Đầu mỗi pha bóng, nếu A-SET không trong hồi chiêu, [Tinh Thần] của các cầu thủ phe ta tăng **30%**, kéo dài 1 pha bóng.
-
----
-
-### Kỹ Năng 3 – ĐỠ BÓNG BỌC LÓT
-**Loại:** Thụ Động | Giảm Hồi Chiêu | Thay Đổi Kết Quả
-
-Khi Yaku (Lễ Hội Pháo Hoa) trên sân và một đồng đội khác tung kỹ năng Đỡ Bóng, hồi chiêu của LÕI PHÒNG THỦ được đặt lại và sức mạnh đỡ bóng của các cầu thủ phe ta tăng thêm **120%** chỉ số Đỡ Bóng, cho đến lần Đỡ Bóng tiếp theo của Yaku.
-Khi Yaku (Lễ Hội Pháo Hoa) trên sân và phe ta thực hiện cú Đỡ Bóng NORMAL, kết quả cú đỡ đó được đổi thành PERFECT.
-Khi Yaku (Lễ Hội Pháo Hoa) trên sân, cú Cứu Bóng đầu tiên của phe ta trong mỗi pha bóng chắc chắn là PERFECT.
-
----
-
-### Kỹ Năng 4 – LÕI PHÒNG THỦ
-**Loại:** Tối Thượng | Chủ Động | Tăng Cường Đội | Đỡ Bóng
-**Hồi chiêu:** 8 lần bóng qua lưới
-
-Yaku (Lễ Hội Pháo Hoa) thực hiện cú Đỡ Bóng với **250%** chỉ số Đỡ Bóng. Nếu chồng [Đọc Bóng] lớn hơn 2, toàn bộ chồng bị xóa và tất cả cầu thủ phe ta hồi **10 Stamina**. Ngoài ra, chỉ số Đỡ Bóng của các đồng đội còn lại của Yaku tăng thêm **2000 điểm**, kéo dài đến lần Đỡ Bóng tiếp theo của anh.
-
----
-
-### Cộng Hưởng
-
-**SR2:**
-- Mỗi khi Yaku (Lễ Hội Pháo Hoa) tích lũy đủ 5 chồng [Đọc Bóng], cú Đỡ Bóng tiếp theo của anh chắc chắn chí mạng.
-- Kỹ năng mới: Yaku (Lễ Hội Pháo Hoa) thực hiện cú Cứu Bóng chắc chắn chí mạng với **390%** chỉ số Cứu Bóng, và [Tinh Thần] của anh tăng **60%** trong 1 pha bóng. (Hồi chiêu: 6 lần bóng qua lưới)
-
-**SR4:**
-- Khi bắt đầu trận, Yaku (Lễ Hội Pháo Hoa) nhận 5 chồng [Đọc Bóng], mỗi chồng tăng chỉ số Đỡ Bóng và Cứu Bóng của anh **1%**.
-- Khi Yaku (Lễ Hội Pháo Hoa) trên sân và tích lũy tổng cộng **10 chồng** [Đọc Bóng], Kỹ Thuật Phòng Thủ của các cầu thủ phe ta tăng **30%**.
-- Khi tích lũy tổng cộng **20 chồng** [Đọc Bóng], Kỹ Thuật Tấn Công của các cầu thủ phe ta tăng **30%**.
-
----
-
-### Trang Bị – Tăng Đỡ Bóng & Tinh Thần (cấp 1)
-Tăng chỉ số Đỡ Bóng của người trang bị thêm **12%**. Khi người trang bị thực hiện chạm bóng PERFECT, [Tinh Thần] của họ tăng **6%**, tối đa **5 chồng**.
-
----
----
-
-## 2. SHINSUKE KITA (Lễ Hội Pháo Hoa)
+## 1. SHINSUKE KITA (Lễ Hội Pháo Hoa)
 
 ### Kỹ Năng 1 – TẬP TRUNG ĐỘI
 **Loại:** Thụ Động | Tăng Chỉ Số
