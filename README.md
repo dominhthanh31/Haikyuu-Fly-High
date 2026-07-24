@@ -4,7 +4,10 @@ Tổng hợp kỹ năng nhân vật và hướng dẫn chơi game **Haikyu!! FLY
 
 ## Hướng dẫn chung
 
-- [Hướng Dẫn Tổng Hợp](Huong_Dan.md) — Hiệu ứng vị trí, set trang bị, HLV, hệ thống chiêu
+- [Cơ bản](Huong_Dan_Co_Ban.md) — Chỉ số, Kizuna, Cộng hưởng kỹ năng
+- [Tiềm năng](Huong_Dan_Tiem_Nang.md) — Ô tiềm năng, hiệu ứng bộ
+- [Huấn luyện viên](Huong_Dan_HLV.md) — HLV, hiệu ứng vị trí
+- [Gacha](Huong_Dan_Gacha.md) — Tỷ lệ, pity, wish system
 
 ## SP Cards
 
@@ -37,6 +40,12 @@ Tổng hợp kỹ năng nhân vật và hướng dẫn chơi game **Haikyu!! FLY
 - [27. Nishinoya Yuu — Jazz](Sp/27.%20Nishinoya_Yuu_Jazz.md)
 - [28. Aone Takanobu — Houkago](Sp/28.%20Aone_Takanobu_Houkago.md)
 - [29. Futakuchi Kenji — Houkago](Sp/29.%20Futakuchi_Kenji_Houkago.md)
+- [30. Ushijima Wakatoshi — Kaisuiyoku](Sp/30.%20Ushijima_Wakatoshi_Kaisuiyoku.md)
+- [31. Shirabu Kenjiro — Kaisuiyoku](Sp/31.%20Shirabu_Kenjiro_Kaisuiyoku.md)
+- [32. Hanamaki Takahiro — Kaisuiyoku](Sp/32.%20Hanamaki_Takahiro_Kaisuiyoku.md)
+- [33. Yaku Morisuke — Hanabi](Sp/33.%20Yaku_Morisuke_Hanabi.md)
+- [34. Kita Shinsuke — Hanabi](Sp/34.%20Kita_Shinsuke_Hanabi.md)
+- [35. Suna Rintaro — Hanabi](Sp/35.%20Suna_Rintaro_Hanabi.md)
 
 ## UR Cards
 
@@ -45,3 +54,4 @@ Tổng hợp kỹ năng nhân vật và hướng dẫn chơi game **Haikyu!! FLY
 ## Minigame
 
 - [Trốn Tìm](Minigame/Tron_Tim.md)
+- [Eternal Match](Minigame/Eternal_Match.md)
