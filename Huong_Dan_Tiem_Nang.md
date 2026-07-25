@@ -71,21 +71,21 @@
 
 **〈Thần tốc tốc công〉** — 神速速攻
 
-![〈Thần tốc tốc công〉](Ảnh/Tiềm%20năng/image.png)
+![〈Thần tốc tốc công〉](Ảnh/Tiềm%20năng/IMG_20260725_085741.jpg)
 
 - Bộ 2: [Tốc công] + 15%
 - Bộ 4: Khi kỹ năng tốc công kích hoạt, [Tốc công] + 5%. Tối đa cộng dồn 5 lần.
 
 **〈Giác quan nhạy bén〉** — 冴えたセンス
 
-![〈Giác quan nhạy bén〉](Ảnh/Tiềm%20năng/image.png)
+![〈Giác quan nhạy bén〉](Ảnh/Tiềm%20năng/IMG_20260725_085827.jpg)
 
 - Bộ 2: [Tốc công] + 15%
 - Bộ 4: [Ý thức] + 15%. Khi tốc công trở thành Nice Play, [Sức mạnh] + 10%.
 
 **〈Ý thức cường hóa〉** — 意識強化
 
-![〈Ý thức cường hóa〉](Ảnh/Tiềm%20năng/image.png)
+![〈Ý thức cường hóa〉](Ảnh/Tiềm%20năng/IMG_20260725_085200.jpg)
 
 - Bộ 2: [Ý thức] + 7.5%
 - Bộ 4: [Ý thức] + 22.5%. Mỗi khi xảy ra Nice Play, [Ý thức] - 10%, [Tốc công] + 5%. Tối đa cộng dồn 3 lần.
@@ -96,28 +96,28 @@
 
 **〈Áp lực đập mạnh〉** — 迫力強打
 
-![〈Áp lực đập mạnh〉](Ảnh/Tiềm%20năng/image.png)
+![〈Áp lực đập mạnh〉](Ảnh/Tiềm%20năng/IMG_20260725_085613.jpg)
 
 - Bộ 2: [Đập mạnh] + 15%
 - Bộ 4: [Ý thức] + 15%. Khi đập mạnh trở thành Nice Play, [Sức mạnh] + 10%.
 
 **〈Phấn khích đập mạnh〉** — エキサイト強打
 
-![〈Phấn khích đập mạnh〉](Ảnh/Tiềm%20năng/image.png)
+![〈Phấn khích đập mạnh〉](Ảnh/Tiềm%20năng/IMG_20260725_085700.jpg)
 
 - Bộ 2: [Đập mạnh] + 15%
 - Bộ 4: Khi đập mạnh, [Kỹ thuật tấn công] + 10%. Khi đập mạnh ghi điểm, Stamina + 5.
 
 **〈Sĩ khí tấn công〉** — 士気オフェンス
 
-![〈Sĩ khí tấn công〉](Ảnh/Tiềm%20năng/image.png)
+![〈Sĩ khí tấn công〉](Ảnh/Tiềm%20năng/IMG_20260725_085344.jpg)
 
 - Bộ 2: [Đập mạnh] + 15%
 - Bộ 4: Khi spike (đập mạnh/tốc công), Sĩ khí đội + 5. Khi đội kích hoạt Giác ngộ Sĩ khí, [Ý thức] + 10%, [Sức mạnh] + 20%.
 
 **〈Trạng thái cường hóa〉** — 状態強化
 
-![〈Trạng thái cường hóa〉](Ảnh/Tiềm%20năng/image.png)
+![〈Trạng thái cường hóa〉](Ảnh/Tiềm%20năng/IMG_20260725_084845.jpg)
 
 - Bộ 2: [Đập mạnh] + 15%
 - Bộ 4: Khi Stamina dưới 70, [Ý thức] + 10%. Mỗi khi Stamina hồi phục, [Sức mạnh] + 10%. Tối đa cộng dồn 3 lần.
@@ -128,21 +128,21 @@
 
 **〈Giao bóng chính xác〉** — 精密サーブ
 
-![〈Giao bóng chính xác〉](Ảnh/Tiềm%20năng/image.png)
+![〈Giao bóng chính xác〉](Ảnh/Tiềm%20năng/IMG_20260725_085439.jpg)
 
 - Bộ 2: [Chuyền bóng] + 15%
 - Bộ 4: Giao bóng không bị lỗi. Khi giao bóng, [Kỹ thuật tấn công] + 15%.
 
 **〈Chuyền bóng chính xác〉** — 精密トス
 
-![〈Chuyền bóng chính xác〉](Ảnh/Tiềm%20năng/image.png)
+![〈Chuyền bóng chính xác〉](Ảnh/Tiềm%20năng/IMG_20260725_085527.jpg)
 
 - Bộ 2: [Chuyền bóng] + 15%
 - Bộ 4: Sức mạnh chuyền bóng + [Chuyền bóng] × 15%.
 
 **〈Tấn công hai〉** — ツーアタック
 
-![〈Tấn công hai〉](Ảnh/Tiềm%20năng/image.png)
+![〈Tấn công hai〉](Ảnh/Tiềm%20năng/IMG_20260725_085036.jpg)
 
 - Bộ 2: [Chuyền bóng] + 15%
 - Bộ 4: [Ý thức] + 10%. Khi kỹ năng Tấn công hai kích hoạt, [Sức mạnh] + 30%.
@@ -153,14 +153,14 @@
 
 **〈Chắn bóng chính xác〉** — 精密ブロック
 
-![〈Chắn bóng chính xác〉](Ảnh/Tiềm%20năng/image.png)
+![〈Chắn bóng chính xác〉](Ảnh/Tiềm%20năng/IMG_20260725_090013.jpg)
 
 - Bộ 2: [Chắn bóng] + 15%
 - Bộ 4: Khi bản thân chắn bóng và đối thủ đập mạnh, sức mạnh chắn bóng lần này + [Chắn bóng] × 20%.
 
 **〈Chỉ huy chắn bóng〉** — ブロック指揮
 
-![〈Chỉ huy chắn bóng〉](Ảnh/Tiềm%20năng/image.png)
+![〈Chỉ huy chắn bóng〉](Ảnh/Tiềm%20năng/IMG_20260725_090058.jpg)
 
 - Bộ 2: [Chắn bóng] + 15%
 - Bộ 4: Khi bản thân chắn bóng và 2 thành viên hàng trước khác có thành viên chắn bóng, sức mạnh chắn bóng + [Chắn bóng] × 20%.
@@ -171,14 +171,14 @@
 
 **〈Hỗ trợ đỡ bóng〉** — アシストレシーブ
 
-![〈Hỗ trợ đỡ bóng〉](Ảnh/Tiềm%20năng/image.png)
+![〈Hỗ trợ đỡ bóng〉](Ảnh/Tiềm%20năng/IMG_20260725_090154.jpg)
 
 - Bộ 2: [Đỡ bóng] + 15%
 - Bộ 4: Khi kết quả đỡ bóng của bản thân là Perfect, sức mạnh spike (đập mạnh/tốc công) của đồng đội + [Đập mạnh/Tốc công] của thành viên đó × 30%.
 
 **〈Đỡ bóng phong độ〉** — 好調レシーブ
 
-![〈Đỡ bóng phong độ〉](Ảnh/Tiềm%20năng/image.png)
+![〈Đỡ bóng phong độ〉](Ảnh/Tiềm%20năng/IMG_20260725_090237.jpg)
 
 - Bộ 2: [Đỡ bóng] + 15%
 - Bộ 4: Khi bản thân đỡ bóng và đối thủ tốc công, sức mạnh đỡ bóng lần này + [Đỡ bóng] × 30%.
@@ -189,7 +189,7 @@
 
 **〈Phòng thủ mạnh mẽ〉** — 強力なディフェンス
 
-![〈Phòng thủ mạnh mẽ〉](Ảnh/Tiềm%20năng/image.png)
+![〈Phòng thủ mạnh mẽ〉](Ảnh/Tiềm%20năng/IMG_20260725_084938.jpg)
 
 - Bộ 2: [Phản xạ] + 7.5%
 - Bộ 4: [Tinh thần] + 15%. Khi đỡ bóng hoặc chắn bóng trở thành Nice Play, sức mạnh kỹ năng tiếp theo + chỉ số tương ứng × 20%.
