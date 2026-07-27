@@ -71,7 +71,7 @@
 
 **〈Thần tốc tốc công〉** — 神速速攻
 
-![〈Thần tốc tốc công〉](Ảnh/Tiềm%20năng/IMG_20260725_085741.jpg)
+<img src="Ảnh/Tiềm%20năng/IMG_20260725_085741.jpg" alt="〈Thần tốc tốc công〉" width="300">
 
 - Bộ 2: [Tốc công] + 15%
 - Bộ 4: Khi kỹ năng tốc công kích hoạt, [Tốc công] + 5%. Tối đa cộng dồn 5 lần.
