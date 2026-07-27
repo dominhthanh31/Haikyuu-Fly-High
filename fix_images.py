@@ -24,8 +24,11 @@ for fname in os.listdir(sp_dir):
         content
     )
 
-    # 3. Ensure blank line before each <img> tag
+    # 3. Ensure blank line BEFORE <img> tag
     content = re.sub(r'([^\n])\n(<img )', r'\1\n\n\2', content)
+
+    # 4. Ensure blank line AFTER <img> tag (before next content)
+    content = re.sub(r'(width="\d+">)\n([^\n])', r'\1\n\n\2', content)
 
     with open(fpath, 'w', encoding='utf-8') as f:
         f.write(content)
