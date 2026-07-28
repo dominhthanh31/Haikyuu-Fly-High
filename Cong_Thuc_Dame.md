@@ -362,3 +362,185 @@ Vùng_BN_kỳ_vọng = 1 + (5% + [Ý thức]) × (50% + [Sức mạnh])
 - Khi [Ý thức] đã đạt **cap 100%** → [Ý thức]/[Phản xạ] vô dụng, chỉ còn [Sức mạnh]/[Tinh thần] có giá trị trong Vùng_BN
 
 > **Lưu ý:** Với kỹ năng **guaranteed Nice Play** (xác suất = 100%), [Ý thức]/[Phản xạ] hoàn toàn vô dụng cho lần kích hoạt đó — Vùng_BN khi đó chỉ phụ thuộc vào [Sức mạnh]/[Tinh thần].
+
+---
+
+---
+
+---
+
+> Nguồn: Video YouTube — RedPanda Gaming "I have been building all my characters wrong! - HAIKYU! FLY HIGH" - "https://www.youtube.com/watch?v=NmptCNQ-_9s"
+
+---
+
+## VIII. TỐI ƯU TIỀM NĂNG Ô II VÀ Ô VI — TỪ VIDEO YOUTUBE
+
+### 0. Công thức rút gọn của video
+
+Video sử dụng công thức đơn giản hóa gồm **3 thành phần** (thay vì 6 vùng như tài liệu TQ):
+
+```
+Sát thương = % Tấn công sức mạnh (PA) × Sức mạnh × Kỹ thuật tấn công
+```
+
+- **[Kỹ thuật tấn công]** là nhân tử **độc lập riêng biệt** — không cộng chung với PA hay Sức mạnh
+- Nguyên tắc: **phân bổ chỉ số vào nhiều vùng nhân khác nhau** tốt hơn dồn tất cả vào một vùng (cơ chế nhân > cộng dồn)
+- *Lưu ý: Tác giả đề cập sẽ có video chuyên sâu hơn về công thức chi tiết sau này*
+
+---
+
+### 1. Hiểu đúng về % Tấn công sức mạnh (Power Attack %) trong Tiềm năng
+
+**Phân biệt chỉ số đen vs chỉ số xanh:**
+- **Chỉ số đen (Black number)**: Chỉ số gốc của nhân vật + Tiềm năng trang bị — áp dụng **trước trận** (1:50–3:43)
+- **Chỉ số xanh (Green number)**: Buff nhận được từ đồng đội, HLV, cổ động viên **trong trận** — hoạt động theo cơ chế **cộng dồn (additive)** (4:13–6:44)
+
+Chỉ số từ Tiềm năng (PA%, % [Sức mạnh]...) áp dụng lên chỉ số đen trước trận → **không bao giờ bị ảnh hưởng bởi cộng dồn từ đồng đội**.
+
+---
+
+**% Tấn công sức mạnh từ Tiềm năng chỉ áp dụng lên chỉ số ĐEN (base), KHÔNG phải tổng chỉ số.**
+
+Ví dụ thực tế:
+- Chỉ số đen [Tốc công] = ~2.000
+- Tổng chỉ số [Tốc công] (sau memory, coach, ứng viên...) = ~4.500–5.600
+- Tiềm năng Ô II: +35% [Tốc công]
+  → Thực tế chỉ cộng thêm: 35% × 2.000 = **700 điểm**
+  → Tổng tăng thêm so với 5.600: chỉ khoảng **12–15%**, không phải 35%
+
+→ **35% từ Tiềm năng thực tế chỉ mạnh bằng ~10–15% so với tổng chỉ số.**
+
+---
+
+### 2. Buff trong trận vs Buff trước trận — Khái niệm "pha loãng"
+
+| | Tiềm năng (% chỉ số chính) | Buff trong trận (kỹ năng đồng đội) |
+|---|---|---|
+| Thời điểm | Trước trận | Trong trận |
+| Bị pha loãng bởi đồng đội? | **Không** | **Có** |
+| Áp dụng lên | Chỉ số đen (base) | Tổng chỉ số hiện tại |
+
+**"Pha loãng" (dilution):** Khi nhiều đồng đội cùng buff [KT tấn công] hoặc [Sức mạnh] trong trận, mỗi nguồn buff đó cạnh tranh nhau trong cùng một vùng nhân → giá trị cận biên giảm dần.
+
+**Tại sao [Sức mạnh] đặc biệt dễ bị pha loãng — 2 lý do:**
+
+**① Con số buff từ đồng đội quá lớn:**
+- Game thiết kế skill hỗ trợ với số buff [Sức mạnh] khổng lồ: ví dụ Oikawa (Skill Resin 4) buff trực tiếp **+100% [Sức mạnh]** (trong khi [KT tấn công] chỉ buff thêm 10%)
+- Các nhân vật mới (power creep) liên tục cộng dồn [Sức mạnh] lên **170–210%+** một cách dễ dàng
+
+**② Giá trị cận biên giảm dần (Diminishing Returns):**
+- Khi đội chưa buff nhiều (ví dụ tổng [Sức mạnh] = +150%): thêm 40% [Sức mạnh] từ Ô II Tiềm năng → tăng đáng kể
+- Khi đội đã buff +200% [Sức mạnh]: thêm 40% nữa → chỉ đóng góp tỉ lệ rất nhỏ vào tổng sát thương
+
+Ngược lại, % Power Attack từ Tiềm năng nằm ở "đầu vào" của công thức (áp dụng lên chỉ số đen trước trận), **không chia chung "túi" với buff cộng dồn trong trận** → không bao giờ bị pha loãng bởi đồng đội. Vì vậy đội buff càng nhiều [Sức mạnh] → PA% từ Tiềm năng càng tương đối có giá trị hơn.
+
+---
+
+### 3. Sai lầm phổ biến về [KT tấn công] ở Ô VI
+
+Nhiều người ưu tiên [KT tấn công] ở Ô VI vì nghĩ nó "hiếm" và "ảnh hưởng 3 vùng nhân". Tuy nhiên:
+
+- [KT tấn công] từ Tiềm năng thuộc **Vùng Kỹ thuật** — bị cộng dồn chung với tất cả buff AT trong trận → bão hòa/pha loãng
+- Support nhân vật mạnh như **SP Kageyama, Oikawa** đã buff **20–30%+ [KT tấn công]** cho cả đội mỗi trận → đồng đội đã lo phần này rồi
+- **Meta càng về sau**: nhân vật mới liên tục tăng lượng buff [KT tấn công] và [Sức mạnh] trong trận → hai chỉ số này càng bị pha loãng nhanh hơn, trong khi PA từ Tiềm năng giữ nguyên hiệu quả
+
+> **[KT tấn công] vẫn là chỉ số damage tốt về bản chất** — chỉ là không nên dùng Ô VI cho nó, vì đồng đội đã gánh phần đó. PA từ Tiềm năng là "nền móng" độc lập, đồng đội không bao giờ can thiệp hay làm pha loãng.
+
+→ Ô VI nên là **% Tấn công sức mạnh**, vì không bị pha loãng và áp dụng lên chỉ số đen trước trận
+
+---
+
+### 4. Ngưỡng lựa chọn Ô II và Ô VI
+
+#### Khái niệm Ngưỡng hòa vốn (Breakpoint)
+
+**Ngưỡng hòa vốn** là mốc giá trị chỉ số mà tại đó hiệu quả sát thương của **Lựa chọn A = Lựa chọn B**.
+- Dưới mốc: Lựa chọn A cho sát thương cao hơn
+- Vượt mốc: Lựa chọn B vượt lên và cho sát thương tốt hơn
+
+**Ví dụ cụ thể — Ô VI: PA% vs [KT tấn công] 15%:**
+
+- PA ở Ô VI: chỉ số đen ~2.000, tổng ~5.600 → thực tế tăng: 2.000 × 35% ÷ 5.600 = **12.5%** tổng sát thương (áp dụng vào Vùng Chỉ số)
+- AT 15% ở Ô VI: nếu đồng đội đã buff X% [KT tấn công], thì Vùng Kỹ thuật tăng từ `(1 + X%)` lên `(1 + X% + 15%)` → tăng tương đối = `15% / (1 + X%)`
+
+**Điểm hòa vốn:** `12.5% = 15% / (1 + X%)` → `1 + X% = 1.2` → **X% = 20%**
+
+→ Khi đồng đội đã buff **đúng 20% [KT tấn công]**, PA và AT đóng góp sát thương bằng nhau. Vượt quá 20% → PA tốt hơn.
+
+---
+
+> Giả định: chỉ số đen ~2.000, tổng chỉ số ~5.600 (chưa có PA ở Ô VI) / ~6.300 (đã có PA ở Ô VI)
+
+**Phép tính ngưỡng 170% [Sức mạnh] — Ô II khi chưa có PA ở Ô VI (tổng ~5.600):**
+
+- PA ở Ô II: 2.000 × 35% ÷ 5.600 = **12.5%** tăng tương đối so với tổng chỉ số (áp dụng Vùng Chỉ số)
+- % [Sức mạnh] +40% ở Ô II: Vùng Bùng nổ tăng từ `(150% + S%)` lên `(150% + S% + 40%)` → tăng tương đối = `40% / (150% + S%)`
+  - *(Lưu ý: [Sức mạnh] gốc base ẩn = 50%, đã buff được 100% từ đồng đội → pool hiện tại = 150% + S%)*
+
+**Điểm hòa vốn:** `12.5% = 40% / (150% + S%)` → `150% + S% = 320%` → **S% = 170%**
+
+→ Khi đồng đội đã buff **đúng 170% [Sức mạnh]**, PA và % [Sức mạnh] đóng góp bằng nhau. Vượt 170% → PA tốt hơn.
+
+---
+
+**Phép tính ngưỡng 210% [Sức mạnh] — Ô II khi đã có PA ở Ô VI (tổng ~6.300):**
+
+- PA ở Ô II: 2.000 × 35% ÷ 6.300 = **~11%** tăng tương đối (tổng tăng do đã có PA ở Ô VI)
+- % [Sức mạnh] +40% ở Ô II: tăng tương đối = `40% / (150% + S%)`
+
+**Điểm hòa vốn:** `11% = 40% / (150% + S%)` → `150% + S% = 363%` → **S% ≈ 210%**
+
+→ Khi đồng đội đã buff **đúng 210% [Sức mạnh]**, PA và % [Sức mạnh] đóng góp bằng nhau. Vượt 210% → PA tốt hơn.
+
+---
+
+#### Ô VI — Luôn chọn % Tấn công sức mạnh (Power Attack)
+Điều kiện: Đội buff **>20% [KT tấn công]** trong trận → thỏa mãn trong hầu hết đội hình hiện tại.
+
+#### Ô II — Chưa có PA ở Ô VI (tổng ~5.600):
+| Nếu đội buff... | Chọn |
+|---|---|
+| >170% [Sức mạnh] trong trận | **% Tấn công sức mạnh** |
+| ≤170% [Sức mạnh] | **% [Sức mạnh]** (+40%) |
+
+#### Ô II — Đã có PA ở Ô VI (tổng ~6.300):
+| Nếu đội buff... | Chọn |
+|---|---|
+| >210% [Sức mạnh] trong trận | **% Tấn công sức mạnh** |
+| >75% [KT tấn công] trong trận | **% Tấn công sức mạnh** |
+| Không đạt ngưỡng trên | **% [Sức mạnh]** (+40%) |
+
+---
+
+### 5. So sánh với nội dung phần trên
+
+| Điểm | Phần I–VII (tài liệu TQ) | Phần VIII (video YouTube) |
+|---|---|---|
+| Công thức 6 vùng nhân | ✓ Có | Không đề cập chi tiết |
+| PA từ Tiềm năng chỉ áp dụng lên chỉ số đen | Có nhắc (Loại 1) | **Giải thích rõ hơn với ví dụ số** |
+| Khái niệm pha loãng buff trong trận | Không đề cập | **Thông tin mới** |
+| Ngưỡng cụ thể cho Ô II / Ô VI | Không có | **Thông tin mới** |
+| [Ý thức] vs [Sức mạnh] | ✓ Phân tích chi tiết | Không đề cập |
+| Ví dụ số tính dame | ✓ Có | Có (ngắn hơn) |
+
+**Kết luận:** Hai nguồn **không mâu thuẫn** — video YouTube bổ sung thêm khái niệm pha loãng và ngưỡng thực chiến cụ thể cho Ô II/VI, trong khi tài liệu TQ đi sâu hơn về cơ chế công thức.
+
+---
+
+### 6. Áp dụng cho mọi vai trò — Ô II (tấn công) và Ô IV (phòng thủ)
+
+Video lấy ví dụ nhân vật chuyên **đập mạnh**, nhưng logic hoàn toàn tương tự cho mọi vai trò — chỉ cần thay chỉ số tương ứng:
+
+| Vai trò | Ô ngẫu nhiên chính | PA tương đương | Stat bị pha loãng | Crit rate | Crit damage |
+|---|---|---|---|---|---|
+| Đập mạnh | **Ô II** | % [Đập mạnh] | [Sức mạnh] | [Ý thức] | [Sức mạnh] |
+| Tốc công | **Ô II** | % [Tốc công] | [Sức mạnh] | [Ý thức] | [Sức mạnh] |
+| Chuyền bóng / Giao bóng | **Ô II** | % [Chuyền bóng] / % [Giao bóng] | [Sức mạnh] | [Ý thức] | [Sức mạnh] |
+| Chắn bóng | **Ô IV** | % [Chắn bóng] | [Tinh thần] | [Phản xạ] | [Tinh thần] |
+| Đỡ bóng / Cứu bóng | **Ô IV** | % [Đỡ bóng] / % [Cứu bóng] | [Tinh thần] | [Phản xạ] | [Tinh thần] |
+
+- Ô II chỉ có chỉ số tấn công: [Đập mạnh], [Tốc công], [Chuyền bóng], [Giao bóng], [Ý thức], [Sức mạnh]
+- Ô IV chỉ có chỉ số phòng thủ: [Đỡ bóng], [Chắn bóng], [Cứu bóng], [Phản xạ], [Tinh thần]
+- Ô VI là hỗn hợp — áp dụng PA% tương ứng cho mọi vai trò
+
+> Logic breakpoint và pha loãng hoàn toàn đối xứng giữa tấn công và phòng thủ — chỉ cần thay [Sức mạnh] → [Tinh thần] và [Ý thức] → [Phản xạ].
