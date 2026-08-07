@@ -48,7 +48,7 @@ Mỗi thành viên có **Tổng Cấp Kỹ Năng** (現在スキルレベル合�
 | 13 – 14 | Không thêm cộng hưởng |
 
 ### 3. Cách tăng Tổng Cấp Kỹ Năng
-
+Tổng cấp kỹ năng ban đầu là 4
 Từ tổng cấp 4 trở lên, cần một trong hai:
-- **Thành viên trùng** — pull được thêm bản sao của cùng thành viên đó
-- **Cà Phê Sữa Gungun** (ぐんぐんカフェオレ) — chỉ dùng được cho thành viên **SP**
+- **Thành viên trùng** — pull được thêm bản sao của cùng thành viên đó - tăng được 1 cấp kỹ năng
+- **Cà Phê Sữa Gungun** (ぐんぐんカフェオレ) — chỉ dùng được cho thành viên **SP** - tăng được 1 cấp kỹ năng
