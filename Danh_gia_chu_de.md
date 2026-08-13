@@ -89,33 +89,42 @@ Atsumu giao bóng theo 2 kiểu xen kẽ, vô hiệu hóa tuyệt chiêu đối 
 
 ### Chuyền hai
 
-| Xếp hạng | Nhân vật | Điểm mạnh nổi bật |
-|---|---|---|
-| 1 | **Oikawa** (Bunkasai) | Toàn diện nhất, không điểm yếu |
-| 2 | **Kageyama** (Jazz) | Phối hợp siêu tốt với người đập tốc công |
-| 3 | **Atsumu** (Fuyuyasumi) | Giao bóng chiến lược, hỗ trợ cả tấn + phòng |
-| 3 | **Shirabu** (Kaisuiyoku II) | Hiệu quả nhất khi Bùng Nổ |
-| 3 | **Akaashi** (Kaisuiyoku I) | Vừa chuyền vừa tự đập được |
+> Hanabi không có chuyền hai chuyên dụng.
+
+| Xếp hạng | Nhân vật | Điểm mạnh nổi bật | Điểm |
+|---|---|---|---|
+| 1 | **Oikawa** (Bunkasai) | Toàn diện nhất, không điểm yếu | **10/10** |
+| 2 | **Kageyama** (Jazz) | Phối hợp siêu tốt với người đập tốc công | **9/10** |
+| 3 | **Atsumu** (Fuyuyasumi) | Giao bóng chiến lược, hỗ trợ cả tấn + phòng | **8/10** |
+| 3 | **Shirabu** (Kaisuiyoku II) | Hiệu quả nhất khi Bùng Nổ | **8/10** |
+| 3 | **Akaashi** (Kaisuiyoku I) | Vừa chuyền vừa tự đập được | **8/10** |
 
 ### Thành viên tấn công
 
-| Xếp hạng | Nhân vật | Điểm mạnh nổi bật |
-|---|---|---|
-| 1 | **Hinata** (Jazz) | Sát thương cao nhất, tốc công không bị chắn |
-| 2 | **Ushijima** (Bunkasai) | Tự lập nhất, không cần hỗ trợ nhiều |
-| 2 | **Ushijima** (Kaisuiyoku II) | Đòn chí mạng chắc chắn khi Tinh thần cao |
-| 3 | **Bokuto** (Kaisuiyoku I) | Nâng chỉ số đồng đội mạnh nhất |
-| 4 | **Osamu** (Fuyuyasumi) | Linh hoạt nhất, nhưng sát thương thấp hơn |
+| Xếp hạng | Nhân vật | Điểm mạnh nổi bật | Điểm |
+|---|---|---|---|
+| 1 | **Hinata** (Jazz) | Sát thương cao nhất, tốc công không bị chắn | **10/10** |
+| 2 | **Ushijima** (Bunkasai) | Tự lập nhất, không cần hỗ trợ nhiều | **9/10** |
+| 2 | **Ushijima** (Kaisuiyoku II) | Đòn chí mạng chắc chắn khi Tinh thần cao | **9/10** |
+| 3 | **Suna** (Hanabi) | Tấn công chính, càng về cuối trận càng mạnh | **8/10** |
+| 3 | **Bokuto** (Kaisuiyoku I) | Nâng chỉ số đồng đội mạnh nhất | **8/10** |
+| 4 | **Tsukishima** (Hanabi — mode tấn công) | Tốc công nhanh, mạnh hơn khi đối thủ có debuff | **7/10** |
+| 4 | **Terushima** (Hanabi) | Tích sức mạnh suốt trận, xả hết cuối rally | **7/10** |
+| 4 | **Osamu** (Fuyuyasumi) | Linh hoạt nhất, nhưng sát thương thấp hơn | **7/10** |
 
 ### Thành viên phòng thủ
 
-| Xếp hạng | Nhân vật | Điểm mạnh nổi bật |
-|---|---|---|
-| 1 | **Iwaizumi** (Bunkasai) | Toàn diện nhất — phòng thủ + đập + nâng đội |
-| 2 | **Nishinoya** (Jazz) | Cứu bóng ổn định nhất, hỗ trợ người đập |
-| 3 | **Aone** (Kaisuiyoku I) | Làm yếu đối thủ mạnh nhất |
-| 4 | **Hanamaki** (Kaisuiyoku II) | Kích Tinh thần nhanh, đỡ bóng ổn |
-| 5 | **Tendo** (Fuyuyasumi) | Cao nhất khi đoán đúng, thấp nhất khi sai |
+| Xếp hạng | Nhân vật | Điểm mạnh nổi bật | Điểm |
+|---|---|---|---|
+| 1 | **Iwaizumi** (Bunkasai) | Toàn diện nhất — phòng thủ + đập + nâng đội | **10/10** |
+| 2 | **Nishinoya** (Jazz) | Cứu bóng ổn định nhất, hỗ trợ người đập | **9/10** |
+| 2 | **Yaku** (Hanabi) | Libero ổn định, xương sống phòng thủ của đội | **9/10** |
+| 3 | **Kuroo** (Hanabi) | Chắn bóng + gây debuff vĩnh cửu lên đối thủ | **8/10** |
+| 3 | **Aone** (Kaisuiyoku I) | Làm yếu đối thủ mạnh nhất | **8/10** |
+| 4 | **Kita** (Hanabi) | Gây debuff cả 2 đội, giúp phe ta tận dụng tốt hơn | **7/10** |
+| 4 | **Hanamaki** (Kaisuiyoku II) | Kích Tinh thần nhanh, đỡ bóng ổn | **7/10** |
+| 4 | **Tsukishima** (Hanabi — mode phòng thủ) | Chắn bóng mạnh, mạnh hơn khi đối thủ có debuff | **7/10** |
+| 5 | **Tendo** (Fuyuyasumi) | Cao nhất khi đoán đúng, thấp nhất khi sai | **6/10** |
 
 ---
 
