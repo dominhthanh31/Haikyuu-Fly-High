@@ -1,8 +1,33 @@
-import re
 import os
+import re
 
+haikyuu_dir = r'e:\Game\Haikyuu'
 sp_dir = r'e:\Game\Haikyuu\Sp'
 
+# Replace [Nhận thức] → [Ý thức] (toàn bộ Haikyuu)
+for root, dirs, files in os.walk(haikyuu_dir):
+    for fname in files:
+        if not fname.endswith('.md'):
+            continue
+        fpath = os.path.join(root, fname)
+        with open(fpath, 'r', encoding='utf-8') as f:
+            content = f.read()
+        content = content.replace('[Nhận thức]', '[Ý thức]')
+        content = content.replace('[Giao bóng]', '[Phát bóng]')
+        content = content.replace('[Phát Bóng]', '[Phát bóng]')
+        with open(fpath, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print('Fixed [Nhận thức]:', fname)
+
+# Pattern tô đậm: [stat] ×/+/- số% nếu chưa tô đậm
+bold_pattern = re.compile(
+    r'(?<!\*\*)'
+    r'(\[(?:Đập mạnh|Tốc công|Chuyền bóng|Phát bóng|Đỡ bóng|Cứu bóng|Chắn bóng|Ý thức|Sức mạnh|Kỹ thuật tấn công|Phản xạ|Tinh thần|Kỹ thuật phòng thủ)[^\]]*\]|chỉ số tương ứng)'
+    r'(\s*[×+\-]\s*[\d?][%\d?/.]*%?)'
+    r'(?!\*\*)'
+)
+
+# Tô đậm stat ×/+/- số (chỉ trong Sp)
 for fname in os.listdir(sp_dir):
     if not fname.endswith('.md'):
         continue
@@ -10,28 +35,22 @@ for fname in os.listdir(sp_dir):
     with open(fpath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # 1. Convert markdown image syntax (old path) → <img> with ../
+    # Chuẩn hóa: [stat] × **số%** → [stat] × số% (để bold_pattern có thể match)
     content = re.sub(
-        r'!\[([^\]]+)\]\(Ảnh/Tiềm%20năng/([^)]+)\)',
-        r'<img src="../Ảnh/Tiềm%20năng/\2" alt="\1" width="75">',
-        content
+        r'(\[(?:Đập mạnh|Tốc công|Chuyền bóng|Phát bóng|Đỡ bóng|Cứu bóng|Chắn bóng|Ý thức|Sức mạnh|Kỹ thuật tấn công|Phản xạ|Tinh thần|Kỹ thuật phòng thủ)[^\]]*\]|chỉ số tương ứng)'
+        r'(\s*[×+\-]\s*)\*\*([\d?][^*]*)\*\*',
+        r'\1\2\3', content
     )
 
-    # 2. Fix any <img> that still uses old path without ../
-    content = re.sub(
-        r'<img src="Ảnh/Tiềm%20năng/',
-        '<img src="../Ảnh/Tiềm%20năng/',
-        content
-    )
+    # Tô đậm [stat] ×/+/- số nếu chưa tô đậm
+    content = bold_pattern.sub(r'**\1\2**', content)
 
-    # 3. Ensure blank line BEFORE <img> tag
-    content = re.sub(r'([^\n])\n(<img )', r'\1\n\n\2', content)
-
-    # 4. Ensure blank line AFTER <img> tag (before next content)
-    content = re.sub(r'(width="\d+">)\n([^\n])', r'\1\n\n\2', content)
+    # Tô đậm các từ trạng thái nếu chưa tô đậm
+    for word in ['Nice Play', 'BAD', 'Perfect']:
+        content = re.sub(r'(?<!\*\*)' + re.escape(word) + r'(?!\*\*)', f'**{word}**', content)
 
     with open(fpath, 'w', encoding='utf-8') as f:
         f.write(content)
-    print('Fixed:', fname)
+    print('Fixed [Sp]:', fname)
 
 print('Done')

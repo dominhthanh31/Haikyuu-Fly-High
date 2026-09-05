@@ -5,12 +5,12 @@
 
 1. **【Chỉ số】**: Chỉ số bao gồm Chỉ số chính và Chỉ số phụ. Có thể xem tại mục "Chi tiết" trong màn hình Chỉ số năng lực. Chỉ số chính là năng lực cơ bản của thành viên, còn Chỉ số phụ là yếu tố tăng cường năng lực cơ bản.
 
-2. **【Chỉ số chính】**: Mỗi thành viên có 7 chỉ số chính: [Tốc công (速攻)], [Đập mạnh (強打)], [Chuyền bóng (トス)], [Giao bóng (サーブ)], [Đỡ bóng (レシーブ)], [Chắn bóng (ブロック)], [Cứu bóng (カバー)]. Trong đó, [Tốc công], [Đập mạnh], [Chuyền bóng], [Giao bóng] là chỉ số tấn công; [Đỡ bóng], [Chắn bóng], [Cứu bóng] là chỉ số phòng thủ.
+2. **【Chỉ số chính】**: Mỗi thành viên có 7 chỉ số chính: [Tốc công (速攻)], [Đập mạnh (強打)], [Chuyền bóng (トス)], [Phát bóng (サーブ)], [Đỡ bóng (レシーブ)], [Chắn bóng (ブロック)], [Cứu bóng (カバー)]. Trong đó, [Tốc công], [Đập mạnh], [Chuyền bóng], [Phát bóng] là chỉ số tấn công; [Đỡ bóng], [Chắn bóng], [Cứu bóng] là chỉ số phòng thủ.
 
 3. **【Chỉ số phụ】**:
-   - ① **Ý thức (意識)**: Khi thành viên thực hiện Giao bóng/Đập bóng/Chuyền bóng, tăng tỷ lệ xảy ra Nice Play.
-   - ② **Sức mạnh (パワー)**: Khi thành viên thực hiện Giao bóng/Đập bóng/Chuyền bóng, tăng sức mạnh khi xảy ra Nice Play.
-   - ③ **Kỹ thuật tấn công (攻撃テクニック)**: Tăng sức mạnh Giao bóng/Đập bóng/Chuyền bóng của thành viên.
+   - ① **Ý thức (意識)**: Khi thành viên thực hiện Phát bóng/Đập bóng/Chuyền bóng, tăng tỷ lệ xảy ra Nice Play.
+   - ② **Sức mạnh (パワー)**: Khi thành viên thực hiện Phát bóng/Đập bóng/Chuyền bóng, tăng sức mạnh khi xảy ra Nice Play.
+   - ③ **Kỹ thuật tấn công (攻撃テクニック)**: Tăng sức mạnh Phát bóng/Đập bóng/Chuyền bóng của thành viên.
    - ④ **Phản xạ (反応)**: Khi thành viên thực hiện Đỡ bóng/Chắn bóng/Cứu bóng, tăng tỷ lệ xảy ra Nice Play.
    - ⑤ **Tinh thần (メンタル)**: Khi thành viên thực hiện Đỡ bóng/Chắn bóng/Cứu bóng, tăng sức mạnh khi xảy ra Nice Play.
    - ⑥ **Kỹ thuật phòng thủ (守備テクニック)**: Tăng sức mạnh Đỡ bóng/Chắn bóng/Cứu bóng của thành viên.

@@ -535,11 +535,11 @@ Video lấy ví dụ nhân vật chuyên **đập mạnh**, nhưng logic hoàn t
 |---|---|---|---|---|---|
 | Đập mạnh | **Ô II** | % [Đập mạnh] | [Sức mạnh] | [Ý thức] | [Sức mạnh] |
 | Tốc công | **Ô II** | % [Tốc công] | [Sức mạnh] | [Ý thức] | [Sức mạnh] |
-| Chuyền bóng / Giao bóng | **Ô II** | % [Chuyền bóng] / % [Giao bóng] | [Sức mạnh] | [Ý thức] | [Sức mạnh] |
+| Chuyền bóng / Phát bóng | **Ô II** | % [Chuyền bóng] / % [Phát bóng] | [Sức mạnh] | [Ý thức] | [Sức mạnh] |
 | Chắn bóng | **Ô IV** | % [Chắn bóng] | [Tinh thần] | [Phản xạ] | [Tinh thần] |
 | Đỡ bóng / Cứu bóng | **Ô IV** | % [Đỡ bóng] / % [Cứu bóng] | [Tinh thần] | [Phản xạ] | [Tinh thần] |
 
-- Ô II chỉ có chỉ số tấn công: [Đập mạnh], [Tốc công], [Chuyền bóng], [Giao bóng], [Ý thức], [Sức mạnh]
+- Ô II chỉ có chỉ số tấn công: [Đập mạnh], [Tốc công], [Chuyền bóng], [Phát bóng], [Ý thức], [Sức mạnh]
 - Ô IV chỉ có chỉ số phòng thủ: [Đỡ bóng], [Chắn bóng], [Cứu bóng], [Phản xạ], [Tinh thần]
 - Ô VI là hỗn hợp — áp dụng PA% tương ứng cho mọi vai trò
 

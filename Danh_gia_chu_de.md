@@ -10,7 +10,7 @@
 | Jazz | Hinata đập siêu mạnh không bị chắn, Kageyama+Nishinoya hỗ trợ | **9/10** |
 | Kaisuiyoku | Tích Tinh thần → Bùng Nổ, đánh rất mạnh trong giai đoạn đó | **8.5/10 (Bộ II) · 7.5/10 (Bộ I)** |
 | Hanabi | Gây debuff cả 2 đội, phe ta tận dụng để mạnh hơn đối thủ | **8.5/10** |
-| Fuyuyasumi | Giao bóng chiến lược vô hiệu đối thủ, Osamu linh hoạt | **8/10** |
+| Fuyuyasumi | Phát bóng chiến lược vô hiệu đối thủ, Osamu linh hoạt | **8/10** |
 
 ---
 
@@ -80,7 +80,7 @@ Kita gây hiệu ứng xấu (làm giảm phản xạ và tập trung) cho cả 
 
 Atsumu giao bóng theo 2 kiểu xen kẽ, vô hiệu hóa tuyệt chiêu đối thủ. Osamu vừa đập bóng vừa chuyền bóng — rất linh hoạt. Tendo chắn bóng theo kiểu "đoán trước" — nếu đoán đúng thì rất mạnh, nếu sai thì bỏ lỡ.
 
-- **Mạnh:** Giao bóng của Atsumu rất khó chịu với đối thủ. Osamu cực linh hoạt.
+- **Mạnh:** Phát bóng của Atsumu rất khó chịu với đối thủ. Osamu cực linh hoạt.
 - **Yếu:** Tendo bất ổn định — trận tốt thì rất mạnh, trận xấu thì rất yếu.
 
 ---
@@ -95,7 +95,7 @@ Atsumu giao bóng theo 2 kiểu xen kẽ, vô hiệu hóa tuyệt chiêu đối 
 |---|---|---|---|
 | 1 | **Oikawa** (Bunkasai) | Toàn diện nhất, không điểm yếu | **10/10** |
 | 2 | **Kageyama** (Jazz) | Phối hợp siêu tốt với người đập tốc công | **9/10** |
-| 3 | **Atsumu** (Fuyuyasumi) | Giao bóng chiến lược, hỗ trợ cả tấn + phòng | **8/10** |
+| 3 | **Atsumu** (Fuyuyasumi) | Phát bóng chiến lược, hỗ trợ cả tấn + phòng | **8/10** |
 | 3 | **Shirabu** (Kaisuiyoku II) | Hiệu quả nhất khi Bùng Nổ | **8/10** |
 | 3 | **Akaashi** (Kaisuiyoku I) | Vừa chuyền vừa tự đập được | **8/10** |
 
@@ -136,6 +136,6 @@ Atsumu giao bóng theo 2 kiểu xen kẽ, vô hiệu hóa tuyệt chiêu đối 
 | Sát thương cao nhất, kiểu chơi tấn công thẳng | **Jazz** |
 | Chơi chiến thuật, thích hệ thống phức tạp | **Kaisuiyoku II** |
 | Phong cách kiểm soát, độc đáo khác biệt | **Hanabi** |
-| Giao bóng chiến lược, phong cách linh hoạt | **Fuyuyasumi** |
+| Phát bóng chiến lược, phong cách linh hoạt | **Fuyuyasumi** |
 
 ---

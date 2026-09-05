@@ -5,7 +5,7 @@
 
 1. **【HLV】**: HLV chia thành 3 độ hiếm: Xanh, Tím, Cam. Khi bố trí HLV vào đội, các thông số của đội sẽ tăng. Độ hiếm HLV càng cao, hiệu ứng tăng thông số càng mạnh. Mỗi đội chỉ được bố trí tối đa 1 HLV.
 
-2. **【Thông số HLV】**: Mỗi HLV có 6 thông số chính: [Chuyền bóng], [Giao bóng], [Đỡ bóng], [Chắn bóng], [Cứu bóng], [Đập mạnh/Tốc công]. Thông số chính tối đa ở Lv.15: Cam = 210, Tím = 138.
+2. **【Thông số HLV】**: Mỗi HLV có 6 thông số chính: [Chuyền bóng], [Phát bóng], [Đỡ bóng], [Chắn bóng], [Cứu bóng], [Đập mạnh/Tốc công]. Thông số chính tối đa ở Lv.15: Cam = 210, Tím = 138.
 
 3. **【Chỉ đạo kỹ thuật (テクニック指導)】**: Mỗi HLV có thể thực hiện 1 Chỉ đạo kỹ thuật, cung cấp hiệu ứng đặc biệt cho đội.
 
@@ -83,7 +83,7 @@
 1. [Cứu bóng] +X% (MAX: 6%).
 2. [Chắn bóng] +X% (MAX: 6%).
 3. [Chuyền bóng] +X% (MAX: 6%).
-4. [Giao bóng] +X% (MAX: 6%).
+4. [Phát bóng] +X% (MAX: 6%).
 5. [Đỡ bóng] +X% (MAX: 6%).
 6. [Đập mạnh/Tốc công] +X% (MAX: 6%).
 
@@ -92,6 +92,6 @@
 1. [Cứu bóng] +X (MAX: 35).
 2. [Chắn bóng] +X (MAX: 35).
 3. [Chuyền bóng] +X (MAX: 35).
-4. [Giao bóng] +X (MAX: 35).
+4. [Phát bóng] +X (MAX: 35).
 5. [Đỡ bóng] +X (MAX: 35).
 6. [Đập mạnh/Tốc công] +X (MAX: 35).

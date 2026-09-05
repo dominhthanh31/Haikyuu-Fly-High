@@ -13,7 +13,7 @@ Kageyama thực hiện chuyền bóng với sức mạnh = [Chuyền bóng] × *
 ### Kỹ năng 2 | Giao Bóng Sát Thủ
 **Hồi chiêu:** Bóng qua lưới 6 lần
 
-Kageyama thực hiện cú giao bóng nhảy mạnh với sức mạnh = [Giao bóng] × **?/145/?%**. Nếu pha chơi này trở thành Nice Play, [Kỹ thuật tấn công] của đồng đội tăng 10%. Hiệu ứng kéo dài đến khi bóng qua lưới 6 lần.
+Kageyama thực hiện cú giao bóng nhảy mạnh với sức mạnh = [Phát bóng] × **?/145/?%**. Nếu pha chơi này trở thành Nice Play, [Kỹ thuật tấn công] của đồng đội tăng 10%. Hiệu ứng kéo dài đến khi bóng qua lưới 6 lần.
 
 ---
 
@@ -119,14 +119,14 @@ Chỉ số chính tăng 13%.
 ---
 
 ### Build C — Cân Bằng
-**Bộ: 2 〈Tấn công hai〉 + 2 〈Giao bóng chính xác〉 + 2 〈Chuyền bóng chính xác〉**
+**Bộ: 2 〈Tấn công hai〉 + 2 〈Phát bóng chính xác〉 + 2 〈Chuyền bóng chính xác〉**
 - **Ô II:** [Chuyền bóng] hoặc [Ý thức]
 - **Ô IV:** [Phản xạ]
 - **Ô VI:** [Chuyền bóng]
 
 **Hiệu ứng bộ:**
 - 〈Tấn công hai〉 Bộ 2: [Chuyền bóng] +15%
-- 〈Giao bóng chính xác〉 Bộ 2: [Chuyền bóng] +15%
+- 〈Phát bóng chính xác〉 Bộ 2: [Chuyền bóng] +15%
 - 〈Chuyền bóng chính xác〉 Bộ 2: [Chuyền bóng] +15%
 
 **Lý do:** Tối đa hóa [Chuyền bóng] (+45% từ 3 bộ 2-piece), tận dụng cực tốt Cộng hưởng IV. Đổi lại không có bộ 4-piece.
@@ -138,6 +138,6 @@ Chỉ số chính tăng 13%.
 2. [Ý thức] — tăng tỷ lệ Nice Play tấn công
 3. [Sức mạnh] — tăng sức mạnh Nice Play
 4. [Kỹ thuật tấn công] — buff chung cho tấn công
-5. [Giao bóng] — cho Skill 2
+5. [Phát bóng] — cho Skill 2
 
 ---

@@ -125,19 +125,19 @@
 
 ![攻撃の助力](../Ảnh/Eternal/攻撃の助力.png)
 
-- [Sức mạnh] của thành viên phe ta tăng **50%**. Khi chạm bóng của thành viên phe ta không tạo ra Nice Play, [Nhận thức] của thành viên đó tăng **5%**, tối đa **5 stack**.
+- [Sức mạnh] của thành viên phe ta tăng **50%**. Khi chạm bóng của thành viên phe ta không tạo ra Nice Play, [Ý thức] của thành viên đó tăng **5%**, tối đa **5 stack**.
 
 #### 攻撃のバフ — Buff Tấn Công
 
 ![攻撃のバフ](../Ảnh/Eternal/攻撃のバフ.png)
 
-- Khi [Nhận thức] của thành viên phe ta vượt quá **100%**, cứ mỗi **1%** vượt quá, [Kỹ thuật tấn công] tăng thêm **1.2%**, tối đa **50%**.
+- Khi [Ý thức] của thành viên phe ta vượt quá **100%**, cứ mỗi **1%** vượt quá, [Kỹ thuật tấn công] tăng thêm **1.2%**, tối đa **50%**.
 
 #### 流れを作る — Tạo Đà Thắng
 
 ![流れを作る](../Ảnh/Eternal/流れを作る.png)
 
-- Khi thành viên phe ta Giao Bóng, Tung Bóng hoặc Đập Bóng (Đập mạnh/Tốc công), [Nhận thức] tăng **80%**.
+- Khi thành viên phe ta Giao Bóng, Tung Bóng hoặc Đập Bóng (Đập mạnh/Tốc công), [Ý thức] tăng **80%**.
 
 #### 急速アタック — Tấn Công Tốc Độ
 
@@ -165,7 +165,7 @@
 
 ![脅威のサーブ](../Ảnh/Eternal/脅威のサーブ.png)
 
-- Khi Giao Bóng Dự Bị thực hiện giao bóng, [Giao bóng] tăng **140%** và không bao giờ giao lỗi.
+- Khi Giao Bóng Dự Bị thực hiện giao bóng, [Phát bóng] tăng **140%** và không bao giờ giao lỗi.
 
 #### 巧みなテクニック — Kỹ Thuật Điêu Luyện
 

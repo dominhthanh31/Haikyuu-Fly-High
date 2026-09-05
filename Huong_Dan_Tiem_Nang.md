@@ -17,17 +17,17 @@
 
 2. Độ hiếm Tiềm năng càng cao, chỉ số cơ bản của hiệu ứng chính càng cao.
 
-3. Ô I, III, V có hiệu ứng chính **cố định** (giá trị cố định: 300). Ô III luôn là [Giao bóng], Ô V luôn là [Đỡ bóng]. Ô I tùy theo bộ:
+3. Ô I, III, V có hiệu ứng chính **cố định** (giá trị cố định: 300). Ô III luôn là [Phát bóng], Ô V luôn là [Đỡ bóng]. Ô I tùy theo bộ:
    - **Ô I = [Tốc công]:** 〈Ý thức cường hóa〉〈Thần tốc tốc công〉〈Giác quan nhạy bén〉
    - **Ô I = [Đập mạnh]:** 〈Sĩ khí tấn công〉〈Trạng thái cường hóa〉〈Áp lực đập mạnh〉〈Phấn khích đập mạnh〉
-   - **Ô I = [Chuyền bóng]:** 〈Tấn công hai〉〈Giao bóng chính xác〉〈Chuyền bóng chính xác〉
+   - **Ô I = [Chuyền bóng]:** 〈Tấn công hai〉〈Phát bóng chính xác〉〈Chuyền bóng chính xác〉
    - **Ô I = [Chắn bóng]:** 〈Phòng thủ mạnh mẽ〉〈Chắn bóng chính xác〉〈Chỉ huy chắn bóng〉
    - **Ô I = [Đỡ bóng]:** 〈Hỗ trợ đỡ bóng〉〈Đỡ bóng phong độ〉
 
 4. Ô II, IV, VI có hiệu ứng chính được tạo **ngẫu nhiên** từ các chỉ số sau:
-   - **Ô II** (tấn công): [Đập mạnh] +35%, [Tốc công] +35%, [Chuyền bóng] +35%, [Giao bóng] +35%, [Ý thức] +20%, [Sức mạnh] +40%
+   - **Ô II** (tấn công): [Đập mạnh] +35%, [Tốc công] +35%, [Chuyền bóng] +35%, [Phát bóng] +35%, [Ý thức] +20%, [Sức mạnh] +40%
    - **Ô IV** (phòng thủ): [Đỡ bóng] +35%, [Chắn bóng] +35%, [Cứu bóng] +35%, [Phản xạ] +20%, [Tinh thần] +40%
-   - **Ô VI** (hỗn hợp): [Đập mạnh] +35%, [Tốc công] +35%, [Chuyền bóng] +35%, [Giao bóng] +35%, [Đỡ bóng] +35%, [Chắn bóng] +35%, [Cứu bóng] +35%, [Kỹ thuật tấn công] +15%, [Kỹ thuật phòng thủ] +15%
+   - **Ô VI** (hỗn hợp): [Đập mạnh] +35%, [Tốc công] +35%, [Chuyền bóng] +35%, [Phát bóng] +35%, [Đỡ bóng] +35%, [Chắn bóng] +35%, [Cứu bóng] +35%, [Kỹ thuật tấn công] +15%, [Kỹ thuật phòng thủ] +15%
 
 ---
 
@@ -38,7 +38,7 @@
 2. Độ hiếm Tiềm năng càng cao, chỉ số cơ bản của hiệu ứng phụ càng cao.
 
 3. Bất kể loại hay vị trí, hiệu ứng phụ đều được tạo ngẫu nhiên từ:
-   - Chỉ số chính tấn công: [Tốc công], [Đập mạnh], [Chuyền bóng], [Giao bóng]
+   - Chỉ số chính tấn công: [Tốc công], [Đập mạnh], [Chuyền bóng], [Phát bóng]
    - Chỉ số phụ tấn công: [Ý thức], [Sức mạnh], [Kỹ thuật tấn công]
    - Chỉ số chính phòng thủ: [Đỡ bóng], [Chắn bóng], [Cứu bóng]
    - Chỉ số phụ phòng thủ: [Phản xạ], [Tinh thần], [Kỹ thuật phòng thủ]
@@ -126,12 +126,12 @@
 
 ### Ô I = [Chuyền bóng]
 
-**〈Giao bóng chính xác〉** — 精密サーブ
+**〈Phát bóng chính xác〉** — 精密サーブ
 
-<img src="Ảnh/Tiềm%20năng/IMG_20260725_085439.jpg" alt="〈Giao bóng chính xác〉" width="75">
+<img src="Ảnh/Tiềm%20năng/IMG_20260725_085439.jpg" alt="〈Phát bóng chính xác〉" width="75">
 
 - Bộ 2: [Chuyền bóng] + 15%
-- Bộ 4: Giao bóng không bị lỗi. Khi giao bóng, [Kỹ thuật tấn công] + 15%.
+- Bộ 4: Phát bóng không bị lỗi. Khi giao bóng, [Kỹ thuật tấn công] + 15%.
 
 **〈Chuyền bóng chính xác〉** — 精密トス
 
