@@ -88,3 +88,15 @@ Thành viên trùng có thể dùng để:
 ## 7. Item đặc biệt
 
 - **Vé Đổi Cà Phê Sữa Gungun** (ぐんぐんカフェオレ交換チケット): ghép **20 vé** → đổi được 1 **Cà Phê Sữa Gungun** (ぐんぐんカフェオレ) — dùng để tăng skill level cho thành viên SP.
+
+--- 
+
+## Daichi
+
+| | Lý thuyết (worst case) | Thực tế lần 1 (200 pull) | Thực tế lần 2 (120 pull) | Trạng thái |
+|--|----------------------|--------------------------|--------------|-----------|
+| SP #1 | 40 | 15 | 15 | ✓ Đã có |
+| SP #2 | 180 | 145 | 145 | ✓ Đã có |
+| SP #3 | 320 | 285 | 253 | ✓ Đã có |
+| SP #4 | 460 | 425 | 393 | ⏳ Chờ |
+| SP #5 | 600 | 565 | 533 | ⏳ Chờ |
