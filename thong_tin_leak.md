@@ -55,54 +55,6 @@ Nội dung Kizuna...
 
 ---
 
-## Bokuto Kotaro (Lễ hội văn hóa) — Đối kích — Tinh thần đội
-
----
-
-### Kỹ năng 1: Màn chơi khuấy động khán giả
-**Thụ động | Tăng cường đội | Tinh thần đội**
-
-Khi Bokuto (Lễ hội văn hóa) có mặt trên sân, cứ mỗi 10 điểm tinh thần đội bên mình tăng, [Đập mạnh] của Bokuto (Lễ hội văn hóa) tăng 25 điểm, tối đa 20000 điểm. Khi bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, [Ý thức] của Bokuto (Lễ hội văn hóa) tăng 100%. Khi Bokuto (Lễ hội văn hóa) có mặt trên sân, hiệu ứng *Tinh thần đội giác ngộ* của bên mình được thay đổi thành: chỉ số chính của các thành viên trên sân tăng 30%, kéo dài cho đến khi Bokuto (Lễ hội văn hóa) rời sân.
-
----
-
-### Kỹ năng 2: Kỹ thuật xuất sắc
-**Chủ động | Tinh thần đội | Phát bóng**
-*Hồi chiêu: 6 lần bóng qua lưới*
-
-Bokuto (Lễ hội văn hóa) thực hiện phát bóng với 140% [Phát bóng]. Khi cả hai bên đều đang trong trạng thái *Tinh thần đội giác ngộ*, sức mạnh phát bóng lần này tăng thêm 200% [Phát bóng], đồng thời hồi chiêu tuyệt chiêu của tất cả thành viên trên sân giảm 2 lần bóng qua lưới.
-
----
-
-### Kỹ năng 3: Tâm thế của Ace
-**Thụ động | Tăng chỉ số | Tinh thần đội**
-
-Khi Bokuto (Lễ hội văn hóa) có mặt trên sân, đầu mỗi rally, tinh thần đội của cả hai bên tăng 60 điểm. Khi Bokuto (Lễ hội văn hóa) có mặt trên sân và bên mình kích hoạt *Tinh thần đội giác ngộ*, đội đối phương cũng kích hoạt *Tinh thần đội giác ngộ*. Khi Bokuto (Lễ hội văn hóa) có mặt trên sân, cuối mỗi rally, nếu bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, [Sức mạnh] của Bokuto (Lễ hội văn hóa) tăng 12%, tối đa 120%, kéo dài cho đến khi bên mình thoát khỏi trạng thái *Tinh thần đội giác ngộ*.
-
----
-
-### Kỹ năng 4: 〈Nhất Cầu Nhập Hồn〉 — TUYỆT CHIÊU
-**Tuyệt chiêu | Chủ động | Tinh thần đội | Đập mạnh**
-*Hồi chiêu: 8 lần bóng qua lưới*
-
-Bokuto (Lễ hội văn hóa) thực hiện đập bóng với 250% [Đập mạnh]. Khi bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, sức mạnh đập bóng lần này tăng thêm 100% [Đập mạnh].
-
----
-
-### Cộng hưởng 2
-Khi Bokuto (Lễ hội văn hóa) có mặt trên sân và bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, chỉ số chính của tất cả thành viên trên sân tăng 40%, các kỹ năng của Bokuto (Lễ hội văn hóa) không bị hồi chiêu, và [Sức mạnh] của Bokuto (Lễ hội văn hóa) tăng 40%. Sau khi bên mình thoát khỏi trạng thái *Tinh thần đội giác ngộ*, đầu rally tiếp theo, nếu Bokuto (Lễ hội văn hóa) có mặt trên sân, tinh thần đội bên mình tăng 120 điểm.
-
-### Cộng hưởng 4
-Khi bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, mỗi lần Bokuto (Lễ hội văn hóa) đập bóng, sức mạnh đập bóng tăng 100% [Đập mạnh], tối đa 1000%, kéo dài cho đến khi Bokuto (Lễ hội văn hóa) rời sân hoặc bên mình thoát khỏi trạng thái *Tinh thần đội giác ngộ*. Đầu mỗi rally, nếu Bokuto (Lễ hội văn hóa) có mặt trên sân và bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, tất cả thành viên trên sân ngẫu nhiên được xóa 1 lớp debuff.
-
----
-
-### Kizuna (Lễ hội văn hóa) — Lv.5
-
-Khi bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, mỗi lần Bokuto (Lễ hội văn hóa) đập bóng, chỉ số chính của các thành viên [Lễ hội văn hóa] khác bên mình tăng 20% trong 1 rally. Khi các thành viên [Lễ hội văn hóa] khác bên mình kích hoạt tuyệt chiêu, Bokuto (Lễ hội văn hóa) hồi 1 máu và [Đập mạnh] của Bokuto (Lễ hội văn hóa) tăng 10% cho lần đập tiếp theo, tối đa 40%.
-
----
-
 ## Nakashima Takeru — UR — Đối kích
 
 ---
@@ -147,6 +99,11 @@ Khi Nakashima Takeru nhận 1 lớp [Linh hoạt], anh nhận thêm 1 lớp bổ
 
 ### Kizuna — Lv.5
 *(Chưa có thông tin)*
+
+---
+
+### Memory — Đập Mạnh & Tăng Kỹ Thuật Tấn Công/Phòng Thủ — Nakashima Takeru
+**Hiệu ứng:** [Đập mạnh] của người trang bị memory này tăng **12%**. Khi người trang bị thực hiện đập bóng bỏ qua chắn bóng, [Kỹ thuật tấn công] và [Kỹ thuật phòng thủ] của người đó tăng **8%** trong 1 rally.
 
 ---
 
@@ -198,6 +155,11 @@ Khi bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, mỗi
 
 ---
 
+### Memory — Đỡ Bóng & Tăng Đập Mạnh — Konoha Akinori (Lễ Hội Văn Hóa)
+**Hiệu ứng:** [Đỡ bóng] của người trang bị memory này tăng **12%**. Khi tuyệt chiêu của người trang bị vào hồi chiêu, [Đập mạnh] của người đó tăng **8%**, tối đa **40%**, kéo dài đến lần đập bóng tiếp theo.
+
+---
+
 ## Komi Haruki (Lễ hội văn hóa) — SP — Libero — Tinh thần đội
 
 ---
@@ -243,6 +205,11 @@ Mỗi lần Komi (Lễ hội văn hóa) chạm bóng, sức mạnh của ngườ
 ### Kizuna (Lễ hội văn hóa) — Lv.5
 
 Khi bên mình đang trong trạng thái *Tinh thần đội giác ngộ*, mỗi lần Bokuto (Lễ hội văn hóa) đập bóng, chỉ số chính của các thành viên [Lễ hội văn hóa] khác bên mình tăng 20% trong 1 rally. Khi các thành viên [Lễ hội văn hóa] khác bên mình kích hoạt tuyệt chiêu, Bokuto (Lễ hội văn hóa) hồi 1 máu và [Đập mạnh] của Bokuto (Lễ hội văn hóa) tăng 10% cho lần đập tiếp theo, tối đa 40%.
+
+---
+
+### Memory — Đỡ Bóng & Tăng Sức Chạm Bóng — Komi Haruki (Lễ Hội Văn Hóa)
+**Hiệu ứng:** [Đỡ bóng] của người trang bị memory này tăng **12%**. Khi tinh thần đội bên mình hơn 100 điểm, sức mạnh các cú chạm bóng của người trang bị tăng **40%** chỉ số tương ứng.
 
 ---
 
@@ -300,6 +267,11 @@ Hồi chiêu của *Tốc công tiến hóa* của Hinata (Jazz) giảm 6 lần 
 
 ---
 
+### Memory — Chắn Bóng & Tăng Tốc Công — Tsukishima Kei (Halloween)
+**Hiệu ứng:** [Chắn bóng] của người trang bị memory này tăng **11%**. Khi người trang bị đập bóng, nếu người chắn bóng đối phương có debuff, [Tốc công] của người trang bị tăng **10%**, tối đa **60%**.
+
+---
+
 ## Yamaguchi Tadashi (Halloween) — SP — Phát bóng
 
 ---
@@ -346,5 +318,10 @@ Khi Yamaguchi (Halloween) có mặt trên sân, đầu mỗi rally: nếu Vũ kh
 **Đối tác:** Yamaguchi Tadashi (Halloween) + Tsukishima Kei (Halloween)
 
 Trong rally Yamaguchi (Halloween) kích hoạt *Vũ khí bí mật*, [Chắn bóng] của Tsukishima (Halloween) tăng 2000 điểm và cú chắn bóng đầu tiên của Tsukishima (Halloween) không mất điểm. Khi Yamaguchi (Halloween) kích hoạt *Vũ khí bí mật*, chỉ số chính của người đỡ bóng đó giảm 50% trong 1 rally.
+
+---
+
+### Memory — Phát Bóng & Tăng Sức Phát Bóng — Yamaguchi Tadashi (Halloween)
+**Hiệu ứng:** [Phát bóng] của người trang bị memory này tăng **12%**. Khi người trang bị thực hiện phát bóng Critical, sức mạnh phát bóng lần đó tăng thêm **80%** [Phát bóng].
 
 ---
